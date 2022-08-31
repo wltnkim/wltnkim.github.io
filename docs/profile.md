@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Configuration
+title: Profile
 nav_order: 2
 ---
 
-# Configuration
+# Jisu Kim
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
+I'm Jisu Kim.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -18,9 +18,21 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
-View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
+## Contact Information
 
-## Site logo
+## Positions
+
+## Research Interests
+
+## Educations / Qualifications
+
+## Projects
+
+## Skills
+
+## Publications
+
+## Awards and Honors
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
