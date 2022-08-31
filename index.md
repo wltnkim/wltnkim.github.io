@@ -2,23 +2,31 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Jisu Kim"
 permalink: /
 ---
 
-# Focus on writing good documentation.
+# Jisu Kim
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+I am a Researcher at GIVET(Gyeongbuk Research Institute of Vehicle Embedded Techonology), Yeongcheon, Gyeongsangbuk-do, Republic of Korea. I received B.S and Master degree from Keimyung University. My research area covers theory and applications of image processing, computer vision, pattern recognition and others.
+
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+## Objective
+Software developer involving applications and theory of image processing, computer vision, pattern recognition and machine learning. 
 
----
+## Personal Information
+Researcher, GIVET(Gyeongbuk Research Institute of Vehicle Embedded Technology).
+Yeongcheon, Gyeongsangbuk-do, Republic of Korea 38822.
 
-**New: version `0.4.0.rc1` has just been released! See [the changelog](https://github.com/just-the-docs/just-the-docs/blob/main/CHANGELOG.md) for a detailed breakdown!**
-
-## Getting started
+## Personal Information
+Primary research interest covers theory and applications of image processing, signal processing and analysis, computer vision, pattern recognition and machine learning for diverse applications such as 3D vision system, robotics, machine vision, activity recognition, dimensionality reduction, automotive engineering and others. 
+- Computer Vision
+- Pattern Recognition
+- Activity recognition
+- Deep Learning / Machine Learning 
+- Learning based data prediction 
 
 ### Dependencies
 
