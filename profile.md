@@ -26,5 +26,4 @@ titles:
 key: page-about
 ---
 
-Jisu Kim
-김지수
+한국에서 미국갈려고 준비중 ㅎㅎㅎ
