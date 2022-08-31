@@ -19,25 +19,46 @@ I'm Jisu Kim.
 ---
 
 ## Contact Information
-
-## Positions
-
-## Research Interests
-
-## Educations / Qualifications
-
-## Projects
-
-## Skills
-
-## Publications
-
-## Awards and Honors
-
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/just-the-docs.png"
 ```
+## Positions
+```yaml
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/just-the-docs.png"
+```
+## Research Interests
+```yaml
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/just-the-docs.png"
+```
+## Educations / Qualifications
+```yaml
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/just-the-docs.png"
+```
+## Projects
+```yaml
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/just-the-docs.png"
+```
+## Skills
+```yaml
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/just-the-docs.png"
+```
+## Publications
+```yaml
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/just-the-docs.png"
+```
+## Awards and Honors
+```yaml
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/just-the-docs.png"
+```
+
 
 ## Search
 
