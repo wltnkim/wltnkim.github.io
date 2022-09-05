@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher at GIVET(Gyeongbuk Research Institute of Vehicle Embedded Techonology), Yeongcheon, Gyeongsangbuk-do, Republic of Korea. I received B.S and Master degree from Keimyung University. My research area covers theory and applications of image processing, computer vision, pattern recognition and others.
+I am a Researcher at [GIVET(Gyeongbuk Research Institute of Vehicle Embedded Techonology)](http://www.givet.re.kr/), Yeongcheon, Gyeongsangbuk-do, Republic of Korea. I received B.S and Master degree from [Keimyung University](https://www.kmu.ac.kr/uni/main/main.jsp). My research area covers theory and applications of image processing, computer vision, pattern recognition and others.
 
 For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/Curriculum_Vitae_JisuKim.pdf).
 
@@ -29,7 +29,7 @@ Primary research interest covers theory and applications of image processing, si
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| 2019.03 - 2021.02    | M.S in Computer Engineering, Keimyung University                        | Advisor : Dr. Deokwoo  |
+| 2019.03 - 2021.02    | M.S in Computer Engineering, Keimyung University                        | Advisor : [Dr. Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0)  |
 | 2013.03 - 2019.02    | B.S. in Computer Engineering (Minor in Japanese), Keimyung University   |                        |
 
 
@@ -37,9 +37,9 @@ Primary research interest covers theory and applications of image processing, si
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| 2021.04 - present    | Electronic Equipment System Lab, Gyeongbook Research Institute of Vehicle Embedded Technology GIVET)   |                           |
-| 2020.03 - 2020.08    | Visiting Researcher, Alternative Powertrain Research Lab(APRL), Auburn University, AL, USA   | Supervisor : Songyul Choe |
-| 2018.06 - 2021.02    | Research Assistant, Image and Signal Information Processing Laboratory(ISIP), Keimyung University   | Director : Deokwoo Lee |
+| 2021.04 - present    | Electronic Equipment System Lab, [GIVET](http://www.givet.re.kr/)   |                           |
+| 2020.03 - 2020.08    | Visiting Researcher, APRL, Auburn University, AL, USA   | Supervisor : [Songyul Choe](https://www.eng.auburn.edu/~choeson/) |
+| 2018.06 - 2021.02    | Research Assistant, [ISIP](https://sites.google.com/view/dwoolee/introduction), Keimyung University   | Director : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0) |
 
 ### PERSONAL DATA
 Nationality : Korean
