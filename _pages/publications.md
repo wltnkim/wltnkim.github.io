@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-## PUBLICATIONS
 ### International (Conference (C) and Journal (J))
 _(* : corresponding author)_
 J1 __Jisu Kim, Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).
