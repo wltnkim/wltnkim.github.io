@@ -34,13 +34,13 @@ __Jisu Kim, Deokwoo Lee*__, Activity Recognition with Combination of Deeply Lear
 
 ### Conference  
 ***
-__Jisu Kim*__, 정명수, 권오은, 문창수, Remote control system for self-driving car, _한국멀티미디어학회 춘계학술대회_, May 19, 2022, Busan.
+__Jisu Kim*__, Myeongsu Jeong, Oheun Kwon, Changsoo Moon, Remote control system for self-driving car, _Autumn Annual Conference of Korea Multimedia Society_, May 19, 2022, Busan.
 
 Inseung Jeong, Jaehoon Choi, __Jisu Kim__ and __Deokwoo Lee*__, Fusion and Registration between Depthmap and RGB image using Lidar sensor and a camera, _Proceedings of Symposium of the Korean Institute of communications and Information Sciences_, pp. 758-759, 2020.  
 
 Geonwoo Kim, Jaehoon Choi, __Jisu Kim__ and __Deokwoo Lee*__, Mesh Generation and Texture Mapping Using Binocular Images from Multiple-View Cameras, _Proceedings of Symposium of the Korean Institute of communications and Information Sciences_, pp. 751-753, 2020.  
 
-__Jisu Kim__, OhEun Kwon and __Deokwoo Lee*__, LSTM based intelligent forecasting power load and SMP, _Autumn Annual Conference of KIEE_, Nov. 2019, Ansan-si, Gyeonggi-do.
+__Jisu Kim__, OhEun Kwon and __Deokwoo Lee*__, LSTM based intelligent forecasting power load and SMP, _Autumn Annual Conference of Korea Institute of Electrical Engineers(KIEE)_, Nov. 2019, Ansan-si, Gyeonggi-do.
 
 __Jisu Kim__, Jaehoon Choi and __Deokwoo Lee*__, Homograhy based Image Synthesis using Multiple Camera, _Conference on Information and Control Systems, Oct. 2019_, Gyeongju-si, Gyeongsangbuk-do.
 
