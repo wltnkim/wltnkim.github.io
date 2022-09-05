@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jisu Kim | Academic Website"
+title                    : "Jisu Kim"
 title_separator          : "|"
 name                     : &name "Jisu Kim"
 description              : &description "personal description"
