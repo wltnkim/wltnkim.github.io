@@ -79,5 +79,5 @@ __Adobe__ : Premiere Pro, Photoshop
 
 
 ## Contacts
-Email : koo5679@gmail.com
-I am looking for a phd position.
+Email : koo5679@gmail.com  
+__I am looking for a phd position.__
