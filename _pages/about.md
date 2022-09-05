@@ -42,11 +42,10 @@ Language : Korean(Native), English(?), Japanese(?)
 
 ## SKILLS
 __Programming Language__ : Python, C++, C#  
-__Framework__ : Tensorflow, NumPy, PyTorch  
+__Framework__ : Tensorflow, PyTorch  
+__Library__ : OpenCV, Keras, NumPy  
 __Adobe__ : Premiere Pro, Photoshop  
 
-
-## PROJECTS
 
 ## AWARDS AND HONORS
 
@@ -77,3 +76,8 @@ __Adobe__ : Premiere Pro, Photoshop
 | 2017.09.01 ~ 2018.06.30    | 창업선도대학 | 
 | 2017.06.01 ~ 2018.06.30 | ETCH Misong 벤처기업 | 
 | 2017.08.21 ~ 2017.08.26 | 글로벌 창업캠프 | 
+
+
+## Contacts
+Email : koo5679@gmail.com
+I am looking for a phd position.
