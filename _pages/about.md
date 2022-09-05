@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Jisu Kim"
+title: "Jisu Kim"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
