@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### International (Conference (C) and Journal (J))
-_(* : corresponding author)_
+_(* : corresponding author)_  
 J1 __Jisu Kim, Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).
 
 C5 __Jisu Kim, Deokwoo Lee*__, Action Recognition using Pose Estimation with an Artificial 3D Coordinates and CNN, _Electronic Imaging (EI) 2020_, Burlingame, California, USA. (__oral__)
