@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-## International
+# International
 _(* : corresponding author)_  
 
-### Conference  
+## Conference  
 ***
 Geonwoo Kim, __Jisu Kim__ and __Deokwoo Lee*__, Computational Complexity of View Synthesis with the Number of Selected Images using Array Cameras, _2020 IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)_, Seoul, Korea. (__poster__) 
 
@@ -25,14 +25,14 @@ Cheolhyeong Park, __Jisu Kim__ and __Deokwoo Lee*__, Geometric Deep Learned Feat
 
 
 
-### Journal
+## Journal
 ***
 __Jisu Kim, Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).
 
 
-## Domestic
+# Domestic
 
-### Conference  
+## Conference  
 ***
 __Jisu Kim*__, Myeongsu Jeong, Oheun Kwon, Changsoo Moon, Remote control system for self-driving car, _Autumn Annual Conference of Korea Multimedia Society_, May 19, 2022, Busan.
 
@@ -52,7 +52,7 @@ Taehee Kwon, __Jisu Kim__, Jiyun Kim, Minkang Jin, Jungwon Heo, __Dongkwon Hong*
 
 Taehee Kwon, __Jisu Kim__, Jiyun Kim, Minkang Jin, Jungwon Heo, __Dongkwon Hong*__, Psychological analysis and diagnosis of a companion dog based on the Internet of Things, _Korea Software Congress_, pp. 1,848-1,850, 2017.
 
-### Journal  
+## Journal  
 ***
 __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Block-based Stereo Matching Using Image Segmentation, _The Journal of Korean Institute of Communications and Information Sciences_, Vol. 44, No. 7, pp. 1402-1410, July 2019 (KCI).
 
