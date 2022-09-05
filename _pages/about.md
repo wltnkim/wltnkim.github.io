@@ -37,13 +37,13 @@ Primary research interest covers theory and applications of image processing, si
 | 2018.06 - 2021.02    | Research Assistant, [ISIP](https://sites.google.com/view/dwoolee/introduction), Keimyung University   | Director : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0) |
 
 ### PERSONAL DATA
-Nationality : Korean
+Nationality : Korean  
 Language : Korean(Native), English(?), Japanese(?)
 
 ### SKILLS
-__Programming Language__ : Python, C++, C#
-__Framework__ : Tensorflow, NumPy, PyTorch
-__Adobe__ : Premiere Pro, Photoshop
+__Programming Language__ : Python, C++, C#  
+__Framework__ : Tensorflow, NumPy, PyTorch  
+__Adobe__ : Premiere Pro, Photoshop  
 
 ### PUBLICATIONS
 
