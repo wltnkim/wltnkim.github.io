@@ -10,6 +10,7 @@ author_profile: true
 _(* : corresponding author)_  
 
 ### Conference  
+***
 __Jisu Kim, Deokwoo Lee*__, Action Recognition using Pose Estimation with an Artificial 3D Coordinates and CNN, _Electronic Imaging (EI) 2020_, Burlingame, California, USA. (__oral__)
 
 __Jisu Kim, Deokwoo Lee*__, Improvement of a Speed for View Synthesis with Robust Feature Detection, _International Conference on Algorithms, Machine Learning and Signal Processing Singapore (AMLSP) 2019_, Nanyang Technological University, Singapore. (__oral__)
@@ -20,7 +21,9 @@ Suyeol Kim, Chaehwan Hwang, __Jisu Kim__, Cheolhyeong Park, and __Deokwoo Lee*__
 
 Cheolhyeong Park, __Jisu Kim__ and __Deokwoo Lee*__, Geometric Deep Learned Feature Classification Based Camera Calibration, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia.  
 
+
 ### Journal
+***
 __Jisu Kim, Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).
 
 
