@@ -10,9 +10,9 @@ redirect_from:
 
 I am a Researcher at GIVET(Gyeongbuk Research Institute of Vehicle Embedded Techonology), Yeongcheon, Gyeongsangbuk-do, Republic of Korea. I received B.S and Master degree from Keimyung University. My research area covers theory and applications of image processing, computer vision, pattern recognition and others.
 
-For more, please look up my Curriculum Vitae.
+For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/Curriculum_Vitae_JisuKim.pdf).
 
-### Research Interests
+### RESEARCH INTERESTS
 Primary research interest covers theory and applications of image processing, signal processing and analysis, computer vision, pattern recognition and machine learning for diverse applications such as 3D vision system, robotics, machine vision, activity recognition, dimensionality reduction, automotive engineering and others.
 
 • Computer Vision
@@ -25,7 +25,7 @@ Primary research interest covers theory and applications of image processing, si
 
 • Learning based data prediction
 
-### Educations
+### EDUCATIONS
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
@@ -33,7 +33,7 @@ Primary research interest covers theory and applications of image processing, si
 | 2013.03 - 2019.02    | B.S. in Computer Engineering (Minor in Japanese), Keimyung University   |                        |
 
 
-### Positions
+### POSITIONS
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
@@ -41,11 +41,18 @@ Primary research interest covers theory and applications of image processing, si
 | 2020.03 - 2020.08    | Visiting Researcher, Alternative Powertrain Research Lab(APRL), Auburn University, AL, USA   | Supervisor : Songyul Choe |
 | 2018.06 - 2021.02    | Research Assistant, Image and Signal Information Processing Laboratory(ISIP), Keimyung University   | Director : Deokwoo Lee |
 
-### Skills
+### PERSONAL DATA
+Nationality : Korean
+Language : Korean(Native), English(?), Japanese(?)
 
-### Publications
+### SKILLS
 
-### Projects
+### PUBLICATIONS
 
-### Award and honors
+### PROJECTS
+
+### AWARDS AND HONORS
+
+### TEACHING EXPERIENCES
+
 
