@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 
-### International (Conference (C) and Journal (J))
+## International (Conference (C) and Journal (J))
 _(* : corresponding author)_  
+
 J1 __Jisu Kim, Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).
 
 C5 __Jisu Kim, Deokwoo Lee*__, Action Recognition using Pose Estimation with an Artificial 3D Coordinates and CNN, _Electronic Imaging (EI) 2020_, Burlingame, California, USA. (__oral__)
@@ -18,10 +19,11 @@ C3 __Jisu Kim, Cheolhyeong Park, Ju O Kim and Deokwoo Lee*__, Occlusion handled 
 
 C2 Suyeol Kim, Chaehwan Hwang, __Jisu Kim__, Cheolhyeong Park, and __Deokwoo Lee*__, Similarity based Classification and Detection of Respiratory Status in Frequency Domain, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia.
 
-C1 Cheolhyeong Park, __Jisu Kim__ and __Deokwoo Lee*__, Geometric Deep Learned Feature Classification Based Camera Calibration, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia.
+C1 Cheolhyeong Park, __Jisu Kim__ and __Deokwoo Lee*__, Geometric Deep Learned Feature Classification Based Camera Calibration, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia.  
 
 
-### Domestic (Conference (C) and Journal (J))
+
+## Domestic (Conference (C) and Journal (J))
 C7 __Jisu Kim*__, 정명수, 권오은, 문창수, Remote control system for self-driving car, _한국멀티미디어학회 춘계학술대회_, May 19, 2022, Busan.
 
 C6 __Jisu Kim__, OhEun Kwon and __Deokwoo Lee*__, LSTM based intelligent forecasting power load and SMP, _Autumn Annual Conference of KIEE_, Nov. 2019, Ansan-si, Gyeonggi-do.
