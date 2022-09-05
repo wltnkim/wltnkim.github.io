@@ -11,7 +11,7 @@ author_profile: true
 06/2019 - 01/2020 Pedestrian detection and tracking using multi-sensor fusion  
 06/2019 - 02/2020 Development of prediction system using Power Station with Intelligent Charge and Discharge System  
 05/2018 - 12/2020 AI Flagship Project  
- - Development of intelligent interaction technology based on content awareness and human intention understanding  
- - Radar signal analysis for an intelligent interaction systems  
+    Development of intelligent interaction technology based on content awareness and human intention understanding  
+    Radar signal analysis for an intelligent interaction systems  
 05/2018 - 04/2020 Keimyung University Startup Research Project  
- - An efficient camera calibration for smart vision system, Keimyung Univ.  
+    An efficient camera calibration for smart vision system, Keimyung Univ.  

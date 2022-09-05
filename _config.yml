@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Website"
+title                    : "Jisu Kim"
 title_separator          : "|"
 name                     : &name "Jisu Kim"
-description              : &description "personal description"
+description              : &description "Academic Website"
 url                      : https://wltnkim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wltnkim.github.io"
