@@ -38,7 +38,7 @@ Primary research interest covers theory and applications of image processing, si
 
 ## PERSONAL DATA
 Nationality : Korean  
-Language : Korean(Native), English(Proficient), Japanese(???)
+Language : Korean(Native), English(..?), Japanese(???)
 
 ## SKILLS
 __Programming Language__ : Python, C++, C#  
