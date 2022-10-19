@@ -15,13 +15,13 @@ _(* : corresponding author)_
 ***
 Geonwoo Kim, __Jisu Kim__ and __Deokwoo Lee*__, Computational Complexity of View Synthesis with the Number of Selected Images using Array Cameras, _2020 IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)_, Seoul, Korea. (__poster__) 
 
-__Jisu Kim, Deokwoo Lee*__, Action Recognition using Pose Estimation with an Artificial 3D Coordinates and CNN, _Electronic Imaging (EI) 2020_, Burlingame, California, USA. (__oral__)
+__Jisu Kim__ and __Deokwoo Lee*__, Action Recognition using Pose Estimation with an Artificial 3D Coordinates and CNN, _Electronic Imaging (EI) 2020_, Burlingame, California, USA. (__oral__)
 
-__Jisu Kim, Deokwoo Lee*__, Improvement of a Speed for View Synthesis with Robust Feature Detection, _International Conference on Algorithms, Machine Learning and Signal Processing Singapore (AMLSP) 2019_, Nanyang Technological University, Singapore. (__oral__)
+__Jisu Kim__ and __Deokwoo Lee*__, Improvement of a Speed for View Synthesis with Robust Feature Detection, _International Conference on Algorithms, Machine Learning and Signal Processing Singapore (AMLSP) 2019_, Nanyang Technological University, Singapore. (__oral__)
 
-__Jisu Kim, Cheolhyeong Park, Ju O Kim and Deokwoo Lee*__, Occlusion handled block-based stereo matching with image segmentation, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia. (__oral__)
+__Jisu Kim__, Cheolhyeong Park, Ju O Kim and __Deokwoo Lee*__, Occlusion handled block-based stereo matching with image segmentation, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia. (__oral__)
 
-Suyeol Kim, Chaehwan Hwang, __Jisu Kim__, Cheolhyeong Park, and __Deokwoo Lee*__, Similarity based Classification and Detection of Respiratory Status in Frequency Domain, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia.
+Suyeol Kim, Chaehwan Hwang and __Jisu Kim__, Cheolhyeong Park, and __Deokwoo Lee*__, Similarity based Classification and Detection of Respiratory Status in Frequency Domain, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia.
 
 Cheolhyeong Park, __Jisu Kim__ and __Deokwoo Lee*__, Geometric Deep Learned Feature Classification Based Camera Calibration, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia.  
 
@@ -29,7 +29,7 @@ Cheolhyeong Park, __Jisu Kim__ and __Deokwoo Lee*__, Geometric Deep Learned Feat
 
 ## Journal
 ***
-__Jisu Kim, Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).  
+__Jisu Kim and Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).  
 
 
 <br><br>
@@ -37,7 +37,9 @@ __Jisu Kim, Deokwoo Lee*__, Activity Recognition with Combination of Deeply Lear
 
 ## Conference  
 ***
-__Jisu Kim*__, Myeongsu Jeong, Oheun Kwon, Changsoo Moon, Remote control system for self-driving car, _Autumn Annual Conference of Korea Multimedia Society_, May 19, 2022, Busan.
+__Jisu Kim__, Oheun Kwon, Myeongsu Jeong, Changsoo Moon and Jaehoon Chung*, Duty Cycle-Based SMD storage Efficiency Management Using Deep Learning, _Autumn Annual Conference of Institute of Embedded Engineering of Korea_, Nov 3, 2022, Jeju.
+
+__Jisu Kim*__, Myeongsu Jeong, Oheun Kwon, Changsoo Moon, Remote control system for self-driving car, _Spring Annual Conference of Korea Multimedia Society_, May 19, 2022, Busan.
 
 Inseung Jeong, Jaehoon Choi, __Jisu Kim__ and __Deokwoo Lee*__, Fusion and Registration between Depthmap and RGB image using Lidar sensor and a camera, _Proceedings of Symposium of the Korean Institute of communications and Information Sciences_, pp. 758-759, 2020.  
 
