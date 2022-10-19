@@ -19,7 +19,7 @@ __Jisu Kim__ and __Deokwoo Lee*__, Action Recognition using Pose Estimation with
 
 __Jisu Kim__ and __Deokwoo Lee*__, Improvement of a Speed for View Synthesis with Robust Feature Detection, _International Conference on Algorithms, Machine Learning and Signal Processing Singapore (AMLSP) 2019_, Nanyang Technological University, Singapore. (__oral__)
 
-__Jisu Kim__, Cheolhyeong Park, Ju O Kim and __Deokwoo Lee*__, Occlusion handled block-based stereo matching with image segmentation, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia. (__oral__)
+__Jisu Kim__, Cheolhyeong Park, Juo Kim and __Deokwoo Lee*__, Occlusion handled block-based stereo matching with image segmentation, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia. (__oral__)
 
 Suyeol Kim, Chaehwan Hwang and __Jisu Kim__, Cheolhyeong Park, and __Deokwoo Lee*__, Similarity based Classification and Detection of Respiratory Status in Frequency Domain, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia.
 
@@ -49,9 +49,9 @@ __Jisu Kim__, OhEun Kwon and __Deokwoo Lee*__, LSTM based intelligent forecastin
 
 __Jisu Kim__, Jaehoon Choi and __Deokwoo Lee*__, Homograhy based Image Synthesis using Multiple Camera, _Conference on Information and Control Systems, Oct. 2019_, Gyeongju-si, Gyeongsangbuk-do.
 
-Cheolhyeong Park, __Jisu Kim__, Ju O Kim and __Deokwoo Lee*__, Application to Camera Calibration using Learning Based Corner and Edge Detection, _Autumn Annual Conference of IEIE_, pp. 395-397, Nov. 2018.
+Cheolhyeong Park, __Jisu Kim__, Juo Kim and __Deokwoo Lee*__, Application to Camera Calibration using Learning Based Corner and Edge Detection, _Autumn Annual Conference of IEIE_, pp. 395-397, Nov. 2018.
 
-Ju O Kim, __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Polygon-shaped Filters for analysis of Images in Frequency Domain, _Autumn Annual Conference of IEIE_, pp. 524-526, 2018.
+Juo Kim, __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Polygon-shaped Filters for analysis of Images in Frequency Domain, _Autumn Annual Conference of IEIE_, pp. 524-526, 2018.
 
 Taehee Kwon, __Jisu Kim__, Jiyun Kim, Minkang Jin, Jungwon Heo, __Dongkwon Hong*__, Development of Smartband for Psychological analysis and diagnosis of a companion dog based on the Internet of Things, _Korea Software Congress_, pp. 1,817-1,819, 2018.
 
@@ -63,4 +63,4 @@ __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Block-based Stereo Matching
 
 __Deokwoo Lee*__, __Jisu Kim__ and Cheolhyeong Park, Concepts of System Function and Modulation-Demodulation based Reconstruction of a 3D Object Coordinates using Active Method, _Journal of the Korea Academia-Industrial cooperation Society_, Vol. 20, No. 5, pp. 530-537, May. 2019 (KCI).
 
-Ju O Kim, __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Polygon-shaped Filters in Frequency Domain for Practical Filtering of Images, _Journal of the Korea Academia-Industrial cooperation Society_, Vol. 20, No. 3, pp. 1 - 7, 2019 (KCI).
+JuO Kim, __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Polygon-shaped Filters in Frequency Domain for Practical Filtering of Images, _Journal of the Korea Academia-Industrial cooperation Society_, Vol. 20, No. 3, pp. 1 - 7, 2019 (KCI).
