@@ -13,7 +13,7 @@ _(* : corresponding author)_
 
 ## Conference  
 ***
-__Jisu Kim__ and __Song-yul Choe__, Development of algorithms for vision inspecon systems for module lines using Artificial Intelligence, _2020 Autumn Annual Conference of The Korean Society of Automotive Engineers_ Daegu, Korea.
+__Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspecon systems for module lines using Artificial Intelligence, _2020 Autumn Annual Conference of The Korean Society of Automotive Engineers_, Daegu, Korea.
 
 Geonwoo Kim, __Jisu Kim__ and __Deokwoo Lee*__, Computational Complexity of View Synthesis with the Number of Selected Images using Array Cameras, _2020 IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)_, Seoul, Korea. (__poster__) 
 
