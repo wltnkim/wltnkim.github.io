@@ -13,7 +13,6 @@ _(* : corresponding author)_
 
 ## Conference  
 ***
-__Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspecon systems for module lines using Artificial Intelligence, _2020 Autumn Annual Conference of The Korean Society of Automotive Engineers_, Daegu, Korea.
 
 Geonwoo Kim, __Jisu Kim__ and __Deokwoo Lee*__, Computational Complexity of View Synthesis with the Number of Selected Images using Array Cameras, _2020 IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)_, Seoul, Korea. (__poster__) 
 
@@ -42,6 +41,8 @@ __Jisu Kim__ and __Deokwoo Lee*__, Activity Recognition with Combination of Deep
 __Jisu Kim__, Oheun Kwon, Myeongsu Jeong, Changsoo Moon and Jaehoon Chung*, Duty Cycle-Based SMD storage Efficiency Management Using Deep Learning, _Autumn Annual Conference of Institute of Embedded Engineering of Korea_, Nov 3, 2022, Jeju.
 
 __Jisu Kim*__, Myeongsu Jeong, Oheun Kwon, Changsoo Moon, Remote control system for self-driving car, _Spring Annual Conference of Korea Multimedia Society_, May 19, 2022, Busan.
+
+__Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspecon systems for module lines using Artificial Intelligence, _2020 Autumn Annual Conference of The Korean Society of Automotive Engineers_, Daegu, Korea.
 
 Inseung Jeong, Jaehoon Choi, __Jisu Kim__ and __Deokwoo Lee*__, Fusion and Registration between Depthmap and RGB image using Lidar sensor and a camera, _Proceedings of Symposium of the Korean Institute of communications and Information Sciences_, pp. 758-759, 2020.  
 
