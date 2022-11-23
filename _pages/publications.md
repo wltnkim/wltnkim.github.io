@@ -43,7 +43,7 @@ __Jisu Kim__, Oheun Kwon, Myeongsu Jeong, Changsoo Moon and Jaehoon Chung*, Duty
 
 __Jisu Kim*__, Myeongsu Jeong, Oheun Kwon, Changsoo Moon, Remote control system for self-driving car, _Spring Annual Conference of Korea Multimedia Society_, May 19, 2022, Busan.
 
-__Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspecon systems for module lines using Artificial Intelligence, _2020 Autumn Annual Conference of The Korean Society of Automotive Engineers_, Daegu, Korea.
+__Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspection systems for module lines using Artificial Intelligence, _Autumn Annual Conference of The Korean Society of Automotive Engineers(KSAE) 2020_, Daegu, Korea.
 
 Inseung Jeong, Jaehoon Choi, __Jisu Kim__ and __Deokwoo Lee*__, Fusion and Registration between Depthmap and RGB image using Lidar sensor and a camera, _Proceedings of Symposium of the Korean Institute of communications and Information Sciences_, pp. 758-759, 2020.  
 
