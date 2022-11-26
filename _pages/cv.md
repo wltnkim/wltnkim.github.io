@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/Curriculum_Vitae_JisuKim.pdf).
+For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/Jisu Kim_CV_20221126.pdf).
