@@ -24,8 +24,8 @@ Primary research interest covers theory and applications of image processing, si
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| 2019.03 - 2021.02    | M.S in Computer Engineering, Keimyung University                        | Advisor : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0)  |
-| 2013.03 - 2019.02    | B.S. in Computer Engineering (Minor in Japanese), Keimyung University   |                        |
+| 2019.03 - 2021.02    | M.S in Computer Engineering, Keimyung University | Advisor : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0)  |
+| 2013.03 - 2019.02    | B.S. in Computer Engineering (Minor in Japanese), Keimyung University   |    |
 
 
 ## POSITIONS
