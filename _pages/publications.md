@@ -35,6 +35,7 @@ __Jisu Kim__ and __Deokwoo Lee*__, Activity Recognition with Combination of Deep
 
 
 <br><br>
+
 # Domestic
 
 ## Conference  
@@ -42,6 +43,8 @@ __Jisu Kim__ and __Deokwoo Lee*__, Activity Recognition with Combination of Deep
 __Jisu Kim__, Oheun Kwon, Myeongsu Jeong, Changsoo Moon and Jaehoon Chung*, Duty Cycle-Based SMD storage Efficiency Management Using Deep Learning, _Autumn Annual Conference of Institute of Embedded Engineering of Korea_, Nov 3, 2022, Jeju.
 
 __Jisu Kim*__, Myeongsu Jeong, Oheun Kwon, Changsoo Moon, Remote control system for self-driving car, _Spring Annual Conference of Korea Multimedia Society_, May 19, 2022, Busan.
+
+__Jisu Kim__, Jieun Kim and __Deokwoo Lee*__, Efficient Sampling based Camera Calibration using LSTM, _Autumn Annual Conference of IEIE_, Vol. 44, No. 2, pp. 374-376, Nov 26, 2021, Incheon.
 
 __Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspection systems for module lines using Artificial Intelligence, _Autumn Annual Conference of The Korean Society of Automotive Engineers(KSAE) 2020_, Daegu, Korea.
 
@@ -67,4 +70,4 @@ __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Block-based Stereo Matching
 
 __Deokwoo Lee*__, __Jisu Kim__ and Cheolhyeong Park, Concepts of System Function and Modulation-Demodulation based Reconstruction of a 3D Object Coordinates using Active Method, _Journal of the Korea Academia-Industrial cooperation Society_, Vol. 20, No. 5, pp. 530-537, May. 2019 (KCI).
 
-JuO Kim, __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Polygon-shaped Filters in Frequency Domain for Practical Filtering of Images, _Journal of the Korea Academia-Industrial cooperation Society_, Vol. 20, No. 3, pp. 1 - 7, 2019 (KCI).
+JuO Kim, __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Polygon-shaped Filters in Frequency Domain for Practical Filtering of Images, _Journal of the Korea Academia-Industrial cooperation Society_, Vol. 20, No. 3, pp. 1-7, 2019 (KCI).
