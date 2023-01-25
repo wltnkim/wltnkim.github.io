@@ -44,6 +44,8 @@ __Jisu Kim__, Oheun Kwon, Myeongsu Jeong, Changsoo Moon and Jaehoon Chung*, Duty
 
 __Jisu Kim*__, Myeongsu Jeong, Oheun Kwon, Changsoo Moon, Remote control system for self-driving car, _Spring Annual Conference of Korea Multimedia Society_, May 19, 2022, Busan.
 
+Jieun Kim, __Jisu Kim__ and __Deokwoo Lee*__, Facial Expression Recognition using Deep Neural Network with Face Alignment Network, _Autumn Annual Conference of IEIE_, Vol. 44, No. 2, pp. 372-373, Nov 26, 2021, Incheon.
+
 __Jisu Kim__, Jieun Kim and __Deokwoo Lee*__, Efficient Sampling based Camera Calibration using LSTM, _Autumn Annual Conference of IEIE_, Vol. 44, No. 2, pp. 374-376, Nov 26, 2021, Incheon.
 
 __Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspection systems for module lines using Artificial Intelligence, _Autumn Annual Conference of The Korean Society of Automotive Engineers(KSAE) 2020_, Daegu, Korea.
