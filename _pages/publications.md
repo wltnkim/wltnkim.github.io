@@ -13,7 +13,7 @@ _(* : corresponding author)_
 
 ## Conference  
 ***
-__Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspection systems for module lines using Artificial Intelligence, _International Conference on Innovation Convergence Technology(ICICT) 2021_, Jeju, Korea. (__oral__)
+__Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspection systems for module lines using Artificial Intelligence, _International Conference on Innovation Convergence Technology(ICICT) 2021_, Jeju, Korea. (__online__)
 
 Geonwoo Kim, __Jisu Kim__ and __Deokwoo Lee*__, Computational Complexity of View Synthesis with the Number of Selected Images using Array Cameras, _2020 IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)_, Seoul, Korea. (__poster__) 
 
@@ -48,7 +48,7 @@ Jieun Kim, __Jisu Kim__ and __Deokwoo Lee*__, Facial Expression Recognition usin
 
 __Jisu Kim__, Jieun Kim and __Deokwoo Lee*__, Efficient Sampling based Camera Calibration using LSTM, _Autumn Annual Conference of IEIE_, Vol. 44, No. 2, pp. 374-376, Nov 26, 2021, Incheon.
 
-__Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspection systems for module lines using Artificial Intelligence, _Autumn Annual Conference of The Korean Society of Automotive Engineers(KSAE) 2020_, Daegu, Korea.
+__Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspection systems for module lines using Artificial Intelligence, _Autumn Annual Conference of The Korean Society of Automotive Engineers(KSAE) 2020_, Daegu, Korea. (__online__)
 
 Inseung Jeong, Jaehoon Choi, __Jisu Kim__ and __Deokwoo Lee*__, Fusion and Registration between Depthmap and RGB image using Lidar sensor and a camera, _Proceedings of Symposium of the Korean Institute of communications and Information Sciences_, pp. 758-759, 2020.  
 
