@@ -42,10 +42,11 @@ Language : Korean(Native), English(duolingo 120), Japanese(basic)
 
 ## SKILLS
 __Programming Language__ : Python, C++, C#  
-__Framework__ : Tensorflow, PyTorch  
+__Framework__ : Tensorflow, PyTorch
 __Library__ : OpenCV, Keras, NumPy  
 __Adobe__ : Premiere Pro, Photoshop  
 
 ## Contacts
 Email : koo5679@gmail.com  
+
 __I am looking for a phd position.__
