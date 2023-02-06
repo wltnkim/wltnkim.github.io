@@ -42,7 +42,7 @@ __Jisu Kim__ and __Deokwoo Lee*__, Activity Recognition with Combination of Deep
 ***
 __Jisu Kim__, Oheun Kwon, Myeongsu Jeong, Changsoo Moon and Jaehoon Chung*, Duty Cycle-Based SMD storage Efficiency Management Using Deep Learning, _Autumn Annual Conference of Institute of Embedded Engineering of Korea_, Nov 3, 2022, Jeju.
 
-__Jisu Kim*__, Myeongsu Jeong, Oheun Kwon, Changsoo Moon, Remote control system for self-driving car, _Spring Annual Conference of Korea Multimedia Society_, May 19, 2022, Busan.
+__Jisu Kim*__, Myeongsu Jeong, Oheun Kwon, and Changsoo Moon, Remote control system for self-driving car, _Spring Annual Conference of Korea Multimedia Society_, May 19, 2022, Busan.
 
 Jieun Kim, __Jisu Kim__ and __Deokwoo Lee*__, Facial Expression Recognition using Deep Neural Network with Face Alignment Network, _Autumn Annual Conference of IEIE_, Vol. 44, No. 2, pp. 372-373, Nov 26, 2021, Incheon.
 
