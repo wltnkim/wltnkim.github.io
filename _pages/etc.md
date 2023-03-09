@@ -9,26 +9,26 @@ author_profile: true
 
 |             |    |                                                              
 | --------         | ------ |
-|May 2022| 한국멀티미디어학회 춘계학술발표대회 우수논문상                        |
-|Jan 2021|대한전자공학회 대구경북지부 우수논문상|
-|Nov 2019|2019년도 4차 산업혁명인재양성 연합컨퍼런스 공모전 논문/코딩부문 우수상|
-|Nov 2019|2019년 대한전기학회 산업전기위원회 정기총회 및 추계학술대회 우수논문상|
-|Nov 2018|제2회 4차 산업혁명 인재양성 연합페스티발 창업아이디어 장려상|
-|Feb 2018|계명대학교 창업동아리 우수상|
+|May 2022| Best Paper Award, Korea Multimedia Society                        |
+|Jan 2021| Best Paper Award, The Institute of Electronics and Information Engineers|
+|Nov 2019| Best Paper Award, Startup idea (4th Industrial Revolution Talent Development)|
+|Nov 2019| Best Paper Award, The Korean Institute of Electrical Engineers|
+|Nov 2018| 3rd Award, Startup idea (4th Industrial Revolution Talent Development)|
+|Feb 2018| Startup Club Best Award, Keimyung University|
 
 ## PATENT
 
 |             |    |                                                              
 | --------         | ------ | 
-| Mar 2020 | 깊이맵 생성 방법 및 장치와 RGB 영상과 깊이 맵의 정합 방법 및 장치                        |   
+| Mar 2020 | Method and device for generating depth map and  matching RGB image and depth map                        |   
 
 ## TEACHING EXPERIENCE
 
 |             |    |                                                              
 | --------         | ------ | 
-| Jan 02, 2023 - Jan 13, 2023    | Special Lecture, Engineer Information Security, Keimyung University                       |   
-| Jul 04, 2022 - Jul 15, 2022 | Special Lecture, Engineer Information Processing, Keimyung University                |   
-| Sep 2019 - Feb 2020  | Teaching Assistant, Data Structure(2), Keimyung University                         |   
+| Jan 2023 - Jan 2023 | Special Lecture, Engineer Information Security, Keimyung University                       |   
+| Jul 2022 - Jul 2022 | Special Lecture, Engineer Information Processing, Keimyung University                |   
+| Sep 2019 - Feb 2020 | Teaching Assistant, Data Structure(2), Keimyung University                         |   
 | Mar 2019 - Aug 2019 | Teaching Assistant, Data Structure(1), Keimyung University                         |   
 
 
@@ -36,17 +36,14 @@ author_profile: true
 
 |             |    |                                                              
 | --------         | ------ | 
-| Feb 2023    | Vision robot platform for pipe inspection, Keimyung University                        |   
-| Feb 2023    | Robot remote OLP simulator development, Keimyung University                            |   
-| Aug 2022    | 딥러닝 기반 디지털 에이징을 고려한 바이오필릭 경험 기반 주거 모델 개발, Keimyung University                        |   
-| Aug 2022    | 딥러닝 기반 3D 도면 유사도 측정, Keimyung University                            |   
+| Jan 2023    | Vision robot platform for pipe inspection, Keimyung University                        |   
+| Jan 2023    | Robot remote OLP simulator development, Keimyung University                            |   
+| Aug 2022    | Develop a Biophilic experience-based residential model considering deep learning-based digital aging, Keimyung University                        |   
+| Aug 2022    | Deep learning based 3D drawing similarity measurement, Keimyung University                            |   
  
 ## Etc Position
 
 |             |    |                                                              
 | --------         | ------ | 
-| 2018.07.09 - 2018.07.21    | 국외봉사활동                        |   
-| 2017.08.01 - 2018.06.30    | 창업동아리   |                        
-| 2017.09.01 - 2018.06.30    | 창업선도대학 | 
-| 2017.06.01 - 2018.06.30 | ETCH Misong Startup | 
-| 2017.08.21 - 2017.08.26 | 글로벌 창업캠프 | 
+| Jul 2018    | Volunteer Activity, Vietnam   |   
+| Jun 2017 - Jun 2018 | Startup, ETCH Misong | 
