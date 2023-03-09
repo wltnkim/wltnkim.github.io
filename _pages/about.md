@@ -24,17 +24,17 @@ Primary research interest covers theory and applications of image processing, si
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| **2019.03 - 2021.02**    | M.S in Computer Engineering, Keimyung University | Advisor : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0)  |
-| **2013.03 - 2019.02**    | B.S. in Computer Engineering (Minor in Japanese), Keimyung University   |    |
+| **Mar 2019 - Feb 2021**    | M.S in Computer Engineering, Keimyung University | Advisor : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0)  |
+| **Mar 2013 - Feb 2019**    | B.S. in Computer Engineering (Minor in Japanese), Keimyung University   |    |
 
 
 ## POSITIONS
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| **2021.04 - present**    | Researcher, Electronic Equipment System Lab, [GIVET](http://www.givet.re.kr/)   |                           |
-| **2020.03 - 2020.08**    | Visiting Researcher, APRL, Auburn University, AL, USA   | Supervisor : [Songyul Choe](https://www.eng.auburn.edu/~choeson/) |
-| **2018.06 - 2021.02**    | Research Assistant, [ISIP](https://sites.google.com/view/dwoolee/introduction), Keimyung University   | Director : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0) |
+| **Apr 2021 - present**    | Researcher, SW Research Lab, [GIVET](http://www.givet.re.kr/)   |                           |
+| **Mar 2020 - Aug 2020**    | Visiting Researcher, APRL, Auburn University, AL, USA   | Supervisor : [Songyul Choe](https://www.eng.auburn.edu/~choeson/) |
+| **Jun 2018 - Feb 2021**    | Research Assistant, [ISIP](https://sites.google.com/view/dwoolee/introduction), Keimyung University   | Director : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0) |
 
 ## PERSONAL DATA
 Nationality : Korean  
