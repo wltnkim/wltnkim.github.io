@@ -41,7 +41,7 @@ author_profile: true
 | Aug 2022    | Develop a biophilic experience-based residential model considering deep learning-based digital aging, Keimyung University                        |   
 | Aug 2022    | Deep learning based 3D drawing similarity measurement, Keimyung University                            |   
  
-## Etc Position
+## Activities
 
 |             |    |                                                              
 | --------         | ------ | 
