@@ -22,12 +22,15 @@ author_profile: true
 | --------         | ------ | 
 | 2020.03.03    | 깊이맵 생성 방법 및 장치와 RGB 영상과 깊이 맵의 정합 방법 및 장치                        |   
 
-## TEACHING EXPERIENCES
+## TEACHING EXPERIENCE
 
 |             |    |                                                              
 | --------         | ------ | 
-| 2023.01.02 - 2023.01.13    | 계명대학교 대학혁신지원사업 - 정보보안기사 특강                        |   
-| 2022.07.04 - 2022.07.15    | 계명대학교 지역선도대학 육성사업 - 정보처리산업기사 특강                          |   
+| 2023.01.02 - 2023.01.13    | Special Lecture, 대학혁신지원사업 - 정보보안기사 특강, Keimyung University                       |   
+| 2022.07.04 - 2022.07.15    | Special Lecture, 지역선도대학 육성사업 - 정보처리산업기사 특강, Keimyung University                |   
+| 2019.09.01 - 2020.02.28    | Teaching Assistant, Data Structure(2), Keimyung University                         |   
+| 2019.03.01 - 2019.08.31    | Teaching Assistant, Data Structure(1), Keimyung University                         |   
+
 
 ## ADVICE EXPERIENCES
 
