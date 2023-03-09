@@ -26,10 +26,10 @@ author_profile: true
 
 |             |    |                                                              
 | --------         | ------ | 
-| January 02, 2023 - January 13, 2023    | Special Lecture, Engineer Information Security, Keimyung University                       |   
-| July 04, 2022 - July 15, 2022 | Special Lecture, Engineer Information Processing, Keimyung University                |   
-| September 2019 - February 2020  | Teaching Assistant, Data Structure(2), Keimyung University                         |   
-| March 2019 - August 2019 | Teaching Assistant, Data Structure(1), Keimyung University                         |   
+| Jan 02, 2023 - Jan 13, 2023    | Special Lecture, Engineer Information Security, Keimyung University                       |   
+| Jul 04, 2022 - Jul 15, 2022 | Special Lecture, Engineer Information Processing, Keimyung University                |   
+| Sep 2019 - Feb 2020  | Teaching Assistant, Data Structure(2), Keimyung University                         |   
+| Mar 2019 - Aug 2019 | Teaching Assistant, Data Structure(1), Keimyung University                         |   
 
 
 ## ADVICE EXPERIENCES
