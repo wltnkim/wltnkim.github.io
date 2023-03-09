@@ -38,7 +38,7 @@ author_profile: true
 | --------         | ------ | 
 | Jan 2023    | Vision robot platform for pipe inspection, Keimyung University                        |   
 | Jan 2023    | Robot remote OLP simulator development, Keimyung University                            |   
-| Aug 2022    | Develop a Biophilic experience-based residential model considering deep learning-based digital aging, Keimyung University                        |   
+| Aug 2022    | Develop a biophilic experience-based residential model considering deep learning-based digital aging, Keimyung University                        |   
 | Aug 2022    | Deep learning based 3D drawing similarity measurement, Keimyung University                            |   
  
 ## Etc Position
