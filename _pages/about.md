@@ -26,7 +26,7 @@ Primary research interest covers theory and applications of image processing, si
 | --------         | ------ | ------------------------------------------------------------ |
 | **Aug 2023 - present**    | Ph.D. in Electrical Engineering, University of Neraska, NE, USA | Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)  |
 | **Mar 2019 - Feb 2021**    | M.S in Computer Engineering, Keimyung University, Repulic of Korea | Advisor : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0)  |
-| **Mar 2013 - Feb 2019**    | B.S. in Computer Engineering (Minor in Japanese), Keimyung University, Repulic of Korea   |    |
+| **Mar 2013 - Feb 2019**    | B.S. in Computer Engineering, Keimyung University, Repulic of Korea   |    |
 
 
 ## POSITIONS
