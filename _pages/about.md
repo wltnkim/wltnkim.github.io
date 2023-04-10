@@ -24,6 +24,7 @@ Primary research interest covers theory and applications of image processing, si
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
+| **Aug 2023 - present**    | Ph.D. in Electrical Engineering, University of Neraska, Lincoln | Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)  |
 | **Mar 2019 - Feb 2021**    | M.S in Computer Engineering, Keimyung University | Advisor : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0)  |
 | **Mar 2013 - Feb 2019**    | B.S. in Computer Engineering (Minor in Japanese), Keimyung University   |    |
 
@@ -32,7 +33,8 @@ Primary research interest covers theory and applications of image processing, si
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| **Apr 2021 - present**    | Researcher, SW Research Lab, [GIVET](http://www.givet.re.kr/)   |                           |
+| **Aug 2023 - present**    | Research Assistant, [IMAGE and Signal Analysis (IMAGES) Lab](https://unl-ece.wixsite.com/imageslab)   |                           |
+| **Apr 2021 - May 2023**    | Researcher, SW Research Lab, [GIVET](http://www.givet.re.kr/)   |                           |
 | **Mar 2020 - Aug 2020**    | Visiting Researcher, APRL, Auburn University, AL, USA   | Supervisor : [Songyul Choe](https://www.eng.auburn.edu/~choeson/) |
 | **Jun 2018 - Feb 2021**    | Research Assistant, [ISIP](https://sites.google.com/view/dwoolee/introduction), Keimyung University   | Director : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0) |
 
