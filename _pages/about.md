@@ -24,19 +24,19 @@ Primary research interest covers theory and applications of image processing, si
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| **Aug 2023 - present**    | Ph.D. in Electrical Engineering, University of Neraska, Lincoln | Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)  |
-| **Mar 2019 - Feb 2021**    | M.S in Computer Engineering, Keimyung University | Advisor : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0)  |
-| **Mar 2013 - Feb 2019**    | B.S. in Computer Engineering (Minor in Japanese), Keimyung University   |    |
+| **Aug 2023 - present**    | Ph.D. in Electrical Engineering, University of Neraska, NE, USA | Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)  |
+| **Mar 2019 - Feb 2021**    | M.S in Computer Engineering, Keimyung University, Repulic of Korea | Advisor : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0)  |
+| **Mar 2013 - Feb 2019**    | B.S. in Computer Engineering (Minor in Japanese), Keimyung University, Repulic of Korea   |    |
 
 
 ## POSITIONS
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| **Aug 2023 - present**    | Research Assistant, [IMAGE and Signal Analysis (IMAGES) Lab](https://unl-ece.wixsite.com/imageslab)   |                           |
-| **Apr 2021 - May 2023**    | Researcher, SW Research Lab, [GIVET](http://www.givet.re.kr/)   |                           |
+| **Aug 2023 - present**    | Research Assistant, [IMAGE and Signal Analysis (IMAGES) Lab](https://unl-ece.wixsite.com/imageslab), University of Neraska, NE, USA    |  Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)    |
+| **Apr 2021 - May 2023**    | Researcher, SW Research Lab, [GIVET](http://www.givet.re.kr/), Repulic of Korea   |                           |
 | **Mar 2020 - Aug 2020**    | Visiting Researcher, APRL, Auburn University, AL, USA   | Supervisor : [Songyul Choe](https://www.eng.auburn.edu/~choeson/) |
-| **Jun 2018 - Feb 2021**    | Research Assistant, [ISIP](https://sites.google.com/view/dwoolee/introduction), Keimyung University   | Director : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0) |
+| **Jun 2018 - Feb 2021**    | Research Assistant, [ISIP](https://sites.google.com/view/dwoolee/introduction), Keimyung University, Repulic of Korea   | Director : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0) |
 
 ## PERSONAL DATA
 Nationality : Korean  
