@@ -12,7 +12,7 @@ author_profile: true
 | **May '21 - Aug '21** | Development of a remote control system for autonomous vehicles **(HYUNDAI AUTOEVER)**                                                                                                                                                 |
 | **Apr '21 - Nov '24** | Development of infinitely expandable rectangular parallelepiped large-capacity SMD storage tower line and SMT logistics processing automation                                                                   |
 | **Mar '20 - Sep '20** | Development of algorithms for vision inspection systems for module lines using Artificial Intelligence **(HYUNDAI MOBIS)**                                                                                                    |
-| **Sep '19 - Feb '22** | Depth Camera Calibration Based Deep Learning and Real-Scene for an Intelligent Vision System for unmanned moving object **(National Research Foundation of Korea, NRF)** |
+| **Sep '19 - Feb '22** | Depth Camera Calibration Based Deep Learning and Real-Scene for an Intelligent Vision System for unmanned moving object  <br>**(National Research Foundation of Korea, NRF)** |
 | **Aug '19 - Nov '19** | 3D Mesh Structure and Texture Generation using Plenoptic camera **(ETRI)** |
 | **Jun '19 - Nov '19** | Learning based prediction of SMP(system marginal price) in Hydroelectricity system **(K-water)**                                                                                                                |
 | **Jun '19 - Jan '20** | Pedestrian detection and tracking using multi-sensor fusion                                                                                                                                                     |
