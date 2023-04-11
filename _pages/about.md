@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher at [GIVET(Gyeongbuk Research Institute of Vehicle Embedded Techonology)](http://www.givet.re.kr/), Yeongcheon, Gyeongsangbuk-do, Republic of Korea. I received B.S and Master degree from [Keimyung University](https://www.kmu.ac.kr/uni/main/main.jsp). My research area covers theory and applications of __image processing, computer vision, pattern recognition__ and others.
+I am a Ph.D. student at [UNL(University of Nebraska](https://www.unl.edu/), Lincoln, NE, USA. I received B.S and Master degree from [Keimyung University](https://www.kmu.ac.kr/uni/main/main.jsp). My research area covers theory and applications of __image processing, computer vision, pattern recognition__ and others.
 
 For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/JisuKim_CV_20230309.pdf).
 
