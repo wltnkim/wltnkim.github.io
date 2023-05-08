@@ -36,6 +36,7 @@ Primary research interest covers theory and applications of image processing, si
 | **Aug 2023 - present**    | Research Assistant, [IMAGES Lab](https://unl-ece.wixsite.com/imageslab), University of Neraska, NE, USA    |  Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)    |
 | **Apr 2021 - May 2023**    | Researcher, SW Research Lab, [GIVET](http://www.givet.re.kr/), Repulic of Korea   |                           |
 | **Mar 2020 - Aug 2020**    | Visiting Researcher, APRL, Auburn University, AL, USA   | Supervisor : [Songyul Choe](https://www.eng.auburn.edu/~choeson/) |
+| **Mar 2019 - Feb 2020**    | Teaching Assistant, Keimyung University, Republic of Korea   |                           |
 | **Jun 2018 - Feb 2021**    | Research Assistant, [ISIP](https://sites.google.com/view/dwoolee/introduction), Keimyung University, Repulic of Korea   | Director : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0) |
 
 ## PERSONAL DATA
