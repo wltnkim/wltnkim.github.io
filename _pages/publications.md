@@ -13,7 +13,7 @@ _(* : corresponding author)_
 
 ## Conference  
 ***
-__Jisu Kim*__ and __Changsoo Moon__, Duty Cycle-based Efficient Management of Large-Volume SMD Storage Tower Line Using Deep Learning, _2nd International Conference of Next Generation Convergence Technology(ICNGCT) 2023_, Clark, Philippines. (__preparing__)
+__Jisu Kim*__, Oheun Kwon, Myeongsu Jeong, Daehyeok Gwon and __Changsoo Moon__, Duty Cycle-based Efficient Management of Large-Volume SMD Storage Tower Line Using Deep Learning, _2nd International Conference of Next Generation Convergence Technology(ICNGCT) 2023_, Clark, Philippines. (__preparing__)
 
 __Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspection systems for module lines using Artificial Intelligence, _International Conference on Innovation Convergence Technology(ICICT) 2021_, Jeju, Korea. (__online__)
 
@@ -44,7 +44,7 @@ __Jisu Kim__ and __Deokwoo Lee*__, Activity Recognition with Combination of Deep
 
 ## Conference  
 ***
-Wooyun Cho, __Jisu Kim__ and Jinwook Kwon, Study on The Application of Deep Neural Network Model For Similarity Measurement of Garden Design, _Spring Annual Conference of Korea Multimedia Society_, May 19, 2023, Suncheon. (__preparing__)
+Wooyun Cho, __Jisu Kim__ and Jinwook Kwon, Study on The Application of Deep Neural Network Model For Similarity Measurement of Garden Design, _Spring Annual Conference of Korea Multimedia Society_, May 19, 2023, Suncheon.
 
 __Jisu Kim__, Oheun Kwon, Myeongsu Jeong, Changsoo Moon and Jaehoon Chung*, Duty Cycle-Based SMD Storage Efficiency Management Using Deep Learning, _Autumn Annual Conference of Institute of Embedded Engineering of Korea_, Nov 3, 2022, Jeju.
 
