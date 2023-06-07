@@ -9,6 +9,7 @@ author_profile: true
 
 |             |    |                                                              
 | --------         | ------ |
+|May 2023| Best Paper Award, Korea Multimedia Society                        |
 |May 2022| Best Paper Award, Korea Multimedia Society                        |
 |Jan 2021| Best Paper Award, The Institute of Electronics and Information Engineers|
 |Nov 2019| Best Paper Award, Startup idea (4th Industrial Revolution Talent Development)|
