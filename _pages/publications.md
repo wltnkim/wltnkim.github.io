@@ -13,7 +13,7 @@ _(* : corresponding author)_
 
 ## Conference  
 ***
-__Jisu Kim*__, Oheun Kwon, Myeongsu Jeong, Daehyeok Gwon, Changsoo Moon, and Jaehoon Chung, Duty Cycle-based Efficient Management of Large-Volume SMD Storage Tower Line Using Deep Learning, _2nd International Conference of Next Generation Convergence Technology(ICNGCT) 2023_, Clark, Philippines. (__preparing__)
+__Jisu Kim*__, Oheun Kwon, Myeongsu Jeong, Daehyeok Gwon, Changsoo Moon, and Jaehoon Chung, Duty Cycle-based Efficient Management of Large-Volume SMD Storage Tower Line Using Deep Learning, _2nd International Conference of Next Generation Convergence Technology(ICNGCT) 2023_, Clark, Philippines. (__submitted__)
 
 __Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspection systems for module lines using Artificial Intelligence, _International Conference on Innovation Convergence Technology(ICICT) 2021_, Jeju, Korea. (__online__)
 
