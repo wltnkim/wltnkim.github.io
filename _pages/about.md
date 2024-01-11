@@ -41,7 +41,7 @@ Primary research interest covers theory and applications of image processing, si
 
 ## PERSONAL DATA
 Nationality : Korean  
-Language : Korean(Native), English(duolingo 120), Japanese(basic)
+Language : Korean(native), English(intermetiate)
 
 ## SKILLS
 __Programming Language__ : Python, C++, C#  
@@ -50,4 +50,4 @@ __Library__ : OpenCV, Keras, NumPy
 __Adobe__ : Premiere Pro, Photoshop  
 
 ## Contacts
-Email : koo5679@gmail.com  
+Email : koo5679@gmail.com, jkim73@huskers.unl.edu  
