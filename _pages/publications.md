@@ -33,6 +33,8 @@ Cheolhyeong Park, __Jisu Kim__ and __Deokwoo Lee*__, Geometric Deep Learned Feat
 
 ## Journal
 ***
+__Jisu Kim__, Eungjoo Lee and __Benjamin Riggan*__, Head tracking, _IEEE Access_, 2024 (__preparing__).  
+
 __Jisu Kim__ and __Deokwoo Lee*__, Classification of Robot, _Applied Science_, 2024 (__preparing__).  
 
 __Jisu Kim__ and __Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).  
