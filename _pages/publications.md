@@ -13,6 +13,8 @@ _(* : corresponding author)_
 
 ## Conference  
 ***
+__Jisu Kim__, Alex Mattingly, Eung-joo Lee and __Benjamin Riggan*__, Tiny Head Tracking, _WACV_, 2025 (__preparing__).
+
 __Jisu Kim*__, Oheun Kwon, Myeongsu Jeong, Daehyeok Gwon, Changsoo Moon, and Jaehoon Chung, Duty Cycle-based Efficient Management of Large-Volume SMD Storage Tower Line Using Deep Learning, _2nd International Conference of Next Generation Convergence Technology(ICNGCT) 2023_, Clark, Philippines.
 
 __Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspection systems for module lines using Artificial Intelligence, _International Conference on Innovation Convergence Technology(ICICT) 2021_, Jeju, Korea. (__online__)
@@ -33,9 +35,7 @@ Cheolhyeong Park, __Jisu Kim__ and __Deokwoo Lee*__, Geometric Deep Learned Feat
 
 ## Journal
 ***
-__Jisu Kim__, Eungjoo Lee and __Benjamin Riggan*__, Head tracking, _IEEE Access_, 2024 (__preparing__).  
-
-__Jisu Kim__ and __Deokwoo Lee*__, Classification of Robot, _Applied Science_, 2024 (__preparing__).  
+__Deokwoo Lee__ and __Jisu Kim*__, Classification of Robot, _Sensors_, 2024 (__preparing__).  
 
 __Jisu Kim__ and __Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).  
 
