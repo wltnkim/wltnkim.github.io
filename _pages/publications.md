@@ -13,7 +13,7 @@ _(* : corresponding author)_
 
 ## Conference  
 ***
-__Jisu Kim__, Alex Mattingly, Eung-joo Lee and __Benjamin Riggan*__, Tiny Head Tracking, _IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)_, 2025, Tucson, Arizona, USA. (__preparing__)
+__Jisu Kim__, Alex Mattingly, Eung-joo Lee and __Benjamin Riggan*__, Tiny Head Tracking, _IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025_, Tucson, Arizona, USA. (__preparing__)
 
 __Jisu Kim*__, Oheun Kwon, Myeongsu Jeong, Daehyeok Gwon, Changsoo Moon, and Jaehoon Chung, Duty Cycle-based Efficient Management of Large-Volume SMD Storage Tower Line Using Deep Learning, _2nd International Conference of Next Generation Convergence Technology(ICNGCT) 2023_, Clark, Philippines.
 
