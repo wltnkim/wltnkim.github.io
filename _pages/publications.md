@@ -37,7 +37,7 @@ Cheolhyeong Park, __Jisu Kim__ and __Deokwoo Lee*__, Geometric Deep Learned Feat
 ***
 __Jisu Kim__ and __Deokwoo Lee*__, Classification of Robot, _Sensors_, 2024 (__preparing__).
 
-__Deokwoo Lee__ and __Jisu Kim*__, ResNet Skip-Connection Knowledge Distillation with Efficient Channel Attention, _Sensors_, 2024 (__revision__).
+__Deokwoo Lee__, Youssef Boulaouane, and __Jisu Kim*__, ResNet Skip-Connection Knowledge Distillation with Efficient Channel Attention, _Applied Science_, 2024 (__revision__).
 
 __Jisu Kim__ and __Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).  
 
