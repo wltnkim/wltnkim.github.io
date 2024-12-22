@@ -44,7 +44,7 @@ __Jisu Kim__ and __Deokwoo Lee*__, Activity Recognition with Combination of Deep
 
 <br><br>
 
-# Domestic
+# Domestic (Korean)
 
 ## Conference  
 ***
@@ -80,6 +80,8 @@ Taehee Kwon, __Jisu Kim__, Jiyun Kim, Minkang Jin, Jungwon Heo and __Dongkwon Ho
 
 ## Journal  
 ***
+정유선, __김지수__, __이덕우*__, 스테레오 매칭 알고리즘 성능 비교 연구:BM, SGBM, ELAS의 비교, 산학기술학회논문지.
+
 __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Block-based Stereo Matching Using Image Segmentation, _The Journal of Korean Institute of Communications and Information Sciences_, Vol. 44, No. 7, pp. 1402-1410, July 2019 (KCI).
 
 __Deokwoo Lee*__, __Jisu Kim__ and Cheolhyeong Park, Concepts of System Function and Modulation-Demodulation based Reconstruction of a 3D Object Coordinates using Active Method, _Journal of the Korea Academia-Industrial cooperation Society_, Vol. 20, No. 5, pp. 530-537, May. 2019 (KCI).
