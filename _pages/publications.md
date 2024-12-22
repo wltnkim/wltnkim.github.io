@@ -80,7 +80,7 @@ Taehee Kwon, __Jisu Kim__, Jiyun Kim, Minkang Jin, Jungwon Heo and __Dongkwon Ho
 
 ## Journal  
 ***
-정유선, __김지수__, __이덕우*__, 스테레오 매칭 알고리즘 성능 비교 연구:BM, SGBM, ELAS의 비교, 산학기술학회논문지.
+정유선, __김지수__, __이덕우*__, 스테레오 매칭 알고리즘 성능 비교 연구:BM, SGBM, ELAS의 비교, _한국산학기술학회논문지(JKAIS)_, Vol. 25, No. 11, pp. 667-673, 2024 (KCI).
 
 __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Block-based Stereo Matching Using Image Segmentation, _The Journal of Korean Institute of Communications and Information Sciences_, Vol. 44, No. 7, pp. 1402-1410, July 2019 (KCI).
 
