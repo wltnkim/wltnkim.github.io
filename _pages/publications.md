@@ -35,9 +35,9 @@ Cheolhyeong Park, __Jisu Kim__ and __Deokwoo Lee*__, Geometric Deep Learned Feat
 
 ## Journal
 ***
-__Jisu Kim__ and __Deokwoo Lee*__, Classification of Robot, _Sensors_, 2024 (__preparing__).
+__Jisu Kim__ and __Deokwoo Lee*__, Classification of Robot, _Sensors_, 2025 (__preparing__).
 
-__Deokwoo Lee__, Youssef Boulaouane, and __Jisu Kim*__, ResNet Skip-Connection Knowledge Distillation with Efficient Channel Attention, _Applied Science_, 2024 (__revision__).
+__Deokwoo Lee__ and __Jisu Kim*__, ResNet Skip-Connection Knowledge Distillation with Efficient Channel Attention, _Journal of Signal Processing Systems_, 2025 (__submitted__).
 
 __Jisu Kim__ and __Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).  
 
@@ -66,7 +66,7 @@ Geonwoo Kim, Jaehoon Choi, __Jisu Kim__ and __Deokwoo Lee*__, Mesh Generation an
 
 Byeongchan Oh, Yeonjoo Choi, Bonggi Choi, __Jisu Kim__, Oheun Kwon, Deokwoo Lee, Heejin Kwak, Jeongho Jang, Seonghoon Lee, Sieun Yang and __Sungyul Kim*__, A study on how to improve the performance of AI-based SMP prediction algorithm, _Autumn Annual Conference of Korea Institute of Electrical Engineers(KIEE)_, Nov. 2019, Ansan-si, Gyeonggi-do.
 
-__Jisu Kim__, OhEun Kwon, Heejin Kwak, Seonghoon Lee, Jeongho Jang, Sieun Yang, Woongchan Hwang and __Deokwoo Lee*__, LSTM based intelligent forecasting power load and SMP, _Autumn Annual Conference of Korea Institute of Electrical Engineers(KIEE)_, Nov. 2019, Ansan-si, Gyeonggi-do.
+__Jisu Kim__, Oheun Kwon, Heejin Kwak, Seonghoon Lee, Jeongho Jang, Sieun Yang, Woongchan Hwang and __Deokwoo Lee*__, LSTM based intelligent forecasting power load and SMP, _Autumn Annual Conference of Korea Institute of Electrical Engineers(KIEE)_, Nov. 2019, Ansan-si, Gyeonggi-do.
 
 __Jisu Kim__, Jaehoon Choi and __Deokwoo Lee*__, Homograhy based Image Synthesis using Multiple Camera, _Conference on Information and Control Systems, Oct. 2019_, Gyeongju-si, Gyeongsangbuk-do.
 
