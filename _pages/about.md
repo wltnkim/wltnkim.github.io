@@ -36,7 +36,7 @@ Primary research interest covers theory and applications of image processing, si
 | **Jun 2025 - Jul 2025**    | Research Assistant, [Biosciences Group](https://www.umtri.umich.edu/research/groups/biosciences/), UMTRI(University of Michigan Transportation Research Institute), MI, USA    |  Advisor : [Byoung-Keon (Daniel) Park](https://www.umtri.umich.edu/people/park-byoung-keon-daniel/)    |
 | **Aug 2023 - present**    | Research Assistant, [IMAGES Lab](https://unl-ece.wixsite.com/imageslab), University of Neraska-Lincoln, NE, USA    |  Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)    |
 | **Apr 2021 - May 2023**    | Researcher, SW Research Lab, [GIVET](http://www.givet.re.kr/), Repulic of Korea   |                           |
-| **Mar 2020 - Aug 2020**    | Visiting Researcher, APRL, Auburn University, AL, USA   | Supervisor : [Songyul Choe](https://eng.auburn.edu/directory/choeson) |
+| **Mar 2020 - Aug 2020**    | Visiting Researcher, Alternative Powertrain Research Lab (APRL), Auburn University, AL, USA   | Supervisor : [Songyul Choe](https://eng.auburn.edu/directory/choeson) |
 | **Mar 2019 - Feb 2020**    | Teaching Assistant, Keimyung University, Republic of Korea   |                           |
 | **Jun 2018 - Feb 2021**    | Research Assistant, [ISIP](https://sites.google.com/view/dwoolee/introduction), Keimyung University, Repulic of Korea   | Director : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0) |
 
