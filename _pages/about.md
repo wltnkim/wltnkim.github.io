@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [UNL(University of Nebraska](https://www.unl.edu/), Lincoln, NE, USA. I received B.S and Master degree from [Keimyung University](https://www.kmu.ac.kr/uni/main/main.jsp). My research area covers theory and applications of __image processing, computer vision, pattern recognition__ and others.
+I am a Ph.D. student at [UNL(University of Nebraska-Lincoln](https://www.unl.edu/), NE, USA. I received B.S and Master degree from [Keimyung University](https://www.kmu.ac.kr/uni/main/main.jsp). My research area covers theory and applications of __image processing, computer vision, pattern recognition__ and others.
 
 For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/JisuKim_CV_20240604.pdf).
 
@@ -24,7 +24,7 @@ Primary research interest covers theory and applications of image processing, si
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| **Aug 2023 - present**    | Ph.D. in Electrical Engineering, University of Neraska, NE, USA | Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)  |
+| **Aug 2023 - present**    | Ph.D. in Electrical Engineering, University of Neraska-Lincoln, NE, USA | Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)  |
 | **Mar 2019 - Feb 2021**    | M.S in Computer Engineering, Keimyung University, Repulic of Korea | Advisor : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0)  |
 | **Mar 2013 - Feb 2019**    | B.S. in Computer Engineering, Keimyung University, Repulic of Korea   |    |
 
@@ -34,7 +34,7 @@ Primary research interest covers theory and applications of image processing, si
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | **Jun 2025 - Jul 2025**    | Research Assistant, [Biosciences Group](https://www.umtri.umich.edu/research/groups/biosciences/), UMTRI(University of Michigan Transportation Research Institute), MI, USA    |  Advisor : [Byoung-Keon (Daniel) Park](https://www.umtri.umich.edu/people/park-byoung-keon-daniel/)    |
-| **Aug 2023 - present**    | Research Assistant, [IMAGES Lab](https://unl-ece.wixsite.com/imageslab), University of Neraska, NE, USA    |  Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)    |
+| **Aug 2023 - present**    | Research Assistant, [IMAGES Lab](https://unl-ece.wixsite.com/imageslab), University of Neraska-Lincoln, NE, USA    |  Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)    |
 | **Apr 2021 - May 2023**    | Researcher, SW Research Lab, [GIVET](http://www.givet.re.kr/), Repulic of Korea   |                           |
 | **Mar 2020 - Aug 2020**    | Visiting Researcher, APRL, Auburn University, AL, USA   | Supervisor : [Songyul Choe](https://www.eng.auburn.edu/~choeson/) |
 | **Mar 2019 - Feb 2020**    | Teaching Assistant, Keimyung University, Republic of Korea   |                           |
