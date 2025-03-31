@@ -51,4 +51,4 @@ __Library__ : OpenCV, Keras, NumPy
 __Adobe__ : Premiere Pro, Photoshop  
 
 ## Contacts
-Email : koo5679@gmail.com, jkim73@huskers.unl.edu  
+Email : koo5679@gmail.com, jkim73@unl.edu  
