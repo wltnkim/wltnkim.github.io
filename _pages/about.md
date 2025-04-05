@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student at [UNL(University of Nebraska-Lincoln](https://www.unl.edu/), NE, USA. I received B.S and Master degree from [Keimyung University](https://www.kmu.ac.kr/uni/main/main.jsp). My research area covers theory and applications of __image processing, computer vision, pattern recognition__ and others.
 
-For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/JisuKim_CV_20240604.pdf).
+For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/JisuKim_CV_20250404.pdf).
 
 ## RESEARCH INTERESTS
 Primary research interest covers theory and applications of image processing, signal processing and analysis, computer vision, pattern recognition and machine learning for diverse applications such as 3D vision system, robotics, machine vision, activity recognition, dimensionality reduction, automotive engineering and others.  
