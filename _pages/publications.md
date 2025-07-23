@@ -11,7 +11,9 @@ author_profile: true
 # International
 _(* : corresponding author)_  
 
-J2 __Deokwoo Lee__ and __Jisu Kim*__, ResNet Skip-Connection Knowledge Distillation with Efficient Channel Attention, _Journal of Applied Intelligence_, 2025 (__submitted__).
+J3 __Jisu Kim__ and __Byoung-Keon Daniel Park*__, Driver Behavior Recognition, _Sensors_, 2025. (__preparing__)
+
+J2 Youssef Boulaouane, __Jisu Kim__, Jimin Park and __Deokwoo Lee*__, Improving Image Classification Efficiency with Knowledge Distillation and Channel Attention, _Communications in Computer and Information Science_, 2025. (__submitted__)
 
 C9 __Jisu Kim__, Alex Mattingly, Eung-joo Lee and __Benjamin Riggan*__, Enhancing Tiny Head Detection and Tracking with YOLOv8 Using Early Fusion Multi-Scale and Domain Adaptive Objective Funcsion, _IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2025_, Tampa, Florida, USA. (__poster__)
 
@@ -71,10 +73,10 @@ Taehee Kwon, __Jisu Kim__, Jiyun Kim, Minkang Jin, Jungwon Heo and __Dongkwon Ho
 
 ## Journal  
 ***
-정유선, __김지수__, __이덕우*__, 스테레오 매칭 알고리즘 성능 비교 연구:BM, SGBM, ELAS의 비교, _한국산학기술학회논문지(JKAIS)_, Vol. 25, No. 11, pp. 667-673, 2024 (KCI).
+J4 정유선, __김지수__, __이덕우*__, 스테레오 매칭 알고리즘 성능 비교 연구:BM, SGBM, ELAS의 비교, _한국산학기술학회논문지(JKAIS)_, Vol. 25, No. 11, pp. 667-673, 2024 (KCI).
 
-__Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Block-based Stereo Matching Using Image Segmentation, _The Journal of Korean Institute of Communications and Information Sciences_, Vol. 44, No. 7, pp. 1402-1410, July 2019 (KCI).
+J3 __김지수__, 박철형 and __이덕우*__, 영상 분할을 이용한 블록 기반의 스테레오 정합, _한국통신학회논문지_, Vol. 44, No. 7, pp. 1402-1410, July 2019 (KCI).
 
-__Deokwoo Lee*__, __Jisu Kim__ and Cheolhyeong Park, Concepts of System Function and Modulation-Demodulation based Reconstruction of a 3D Object Coordinates using Active Method, _Journal of the Korea Academia-Industrial cooperation Society_, Vol. 20, No. 5, pp. 530-537, May. 2019 (KCI).
+J2 __이덕우*__, __김지수__, 박철형, 시스템 함수 및 변복조 개념 적용 능동 방식 3차원 물체 좌표 복원, _한국산학기술학회논문지_, Vol. 20, No. 5, pp. 530-537, May. 2019 (KCI).
 
-JuO Kim, __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Polygon-shaped Filters in Frequency Domain for Practical Filtering of Images, _Journal of the Korea Academia-Industrial cooperation Society_, Vol. 20, No. 3, pp. 1-7, 2019 (KCI).
+J1 김주오, __김지수__, 박철형, __이덕우*__, 현실적 영상 필터링 방법을 위한 주파수 영역에서의 다각형 형태 필터의 모델링, _한국산학기술학회논문지_, Vol. 20, No. 3, pp. 1-7, 2019 (KCI).
