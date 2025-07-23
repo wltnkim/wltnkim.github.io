@@ -11,34 +11,27 @@ author_profile: true
 # International
 _(* : corresponding author)_  
 
-## Conference  
-***
-__Jisu Kim__, Alex Mattingly, Eung-joo Lee and __Benjamin Riggan*__, Enhancing Tiny Head Detection and Tracking with YOLOv8 Using Early Fusion Multi-Scale and Domain Adaptive Objective Funcsion, _IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2025_, Tampa, Florida, USA. (__accepted__)
+J2 __Deokwoo Lee__ and __Jisu Kim*__, ResNet Skip-Connection Knowledge Distillation with Efficient Channel Attention, _Journal of Applied Intelligence_, 2025 (__submitted__).
 
-__Jisu Kim*__, Oheun Kwon, Myeongsu Jeong, Daehyeok Gwon, Changsoo Moon, and Jaehoon Chung, Duty Cycle-based Efficient Management of Large-Volume SMD Storage Tower Line Using Deep Learning, _2nd International Conference of Next Generation Convergence Technology(ICNGCT) 2023_, Clark, Philippines.
+C9 __Jisu Kim__, Alex Mattingly, Eung-joo Lee and __Benjamin Riggan*__, Enhancing Tiny Head Detection and Tracking with YOLOv8 Using Early Fusion Multi-Scale and Domain Adaptive Objective Funcsion, _IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2025_, Tampa, Florida, USA. (__poster__)
 
-__Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspection systems for module lines using Artificial Intelligence, _International Conference on Innovation Convergence Technology(ICICT) 2021_, Jeju, Korea. (__online__)
+C8 __Jisu Kim*__, Oheun Kwon, Myeongsu Jeong, Daehyeok Gwon, Changsoo Moon, and Jaehoon Chung, Duty Cycle-based Efficient Management of Large-Volume SMD Storage Tower Line Using Deep Learning, _2nd International Conference of Next Generation Convergence Technology(ICNGCT) 2023_, Clark, Philippines.
 
-Geonwoo Kim, __Jisu Kim__ and __Deokwoo Lee*__, Computational Complexity of View Synthesis with the Number of Selected Images using Array Cameras, _2020 IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)_, Seoul, Korea. (__poster__) 
+J1 __Jisu Kim__ and __Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).  
 
-__Jisu Kim__ and __Deokwoo Lee*__, Action Recognition using Pose Estimation with an Artificial 3D Coordinates and CNN, _Electronic Imaging (EI) 2020_, Burlingame, California, USA. (__oral__)
+C7 __Jisu Kim__ and __Song-yul Choe*__, Development of algorithms for vision inspection systems for module lines using Artificial Intelligence, _International Conference on Innovation Convergence Technology(ICICT) 2021_, Jeju, Korea. (__online__)
 
-__Jisu Kim__ and __Deokwoo Lee*__, Improvement of a Speed for View Synthesis with Robust Feature Detection, _International Conference on Algorithms, Machine Learning and Signal Processing Singapore (AMLSP) 2019_, Nanyang Technological University, Singapore. (__oral__)
+C6 Geonwoo Kim, __Jisu Kim__ and __Deokwoo Lee*__, Computational Complexity of View Synthesis with the Number of Selected Images using Array Cameras, _2020 IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)_, Seoul, Korea. (__poster__) 
 
-__Jisu Kim__, Cheolhyeong Park, Juo Kim and __Deokwoo Lee*__, Occlusion handled block-based stereo matching with image segmentation, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia. (__oral__)
+C5 __Jisu Kim__ and __Deokwoo Lee*__, Action Recognition using Pose Estimation with an Artificial 3D Coordinates and CNN, _Electronic Imaging (EI) 2020_, Burlingame, California, USA. (__oral__)
 
-Suyeol Kim, Chaehwan Hwang and __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Similarity based Classification and Detection of Respiratory Status in Frequency Domain, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia.
+C4 __Jisu Kim__ and __Deokwoo Lee*__, Improvement of a Speed for View Synthesis with Robust Feature Detection, _International Conference on Algorithms, Machine Learning and Signal Processing Singapore (AMLSP) 2019_, Nanyang Technological University, Singapore. (__oral__)
 
-Cheolhyeong Park, __Jisu Kim__ and __Deokwoo Lee*__, Geometric Deep Learned Feature Classification Based Camera Calibration, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia.  
+C3 __Jisu Kim__, Cheolhyeong Park, Juo Kim and __Deokwoo Lee*__, Occlusion handled block-based stereo matching with image segmentation, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia. (__oral__)
 
+C2 Suyeol Kim, Chaehwan Hwang and __Jisu Kim__, Cheolhyeong Park and __Deokwoo Lee*__, Similarity based Classification and Detection of Respiratory Status in Frequency Domain, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia.
 
-
-## Journal
-***
-__Deokwoo Lee__ and __Jisu Kim*__, ResNet Skip-Connection Knowledge Distillation with Efficient Channel Attention, _Journal of Applied Intelligence_, 2025 (__submitted__).
-
-__Jisu Kim__ and __Deokwoo Lee*__, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Science_, Vol. 11, pp. 1-18, 2021 (__SCIE__).  
-
+C1 Cheolhyeong Park, __Jisu Kim__ and __Deokwoo Lee*__, Geometric Deep Learned Feature Classification Based Camera Calibration, _International Conference on Signal Image Processing and Multimedia (SIPM) 2019_, Sydney, Australia.  
 
 <br><br>
 
