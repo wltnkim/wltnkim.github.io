@@ -11,7 +11,7 @@ author_profile: true
 # International
 _(* : corresponding author)_  
 
-J3 __Jisu Kim__ and __Byoung-Keon Daniel Park*__, Robust Occupant Behavior Recognition via Multimodal Sequence Modeling: A Comparative Study for In-Vehicle Monitoring Systems, _Sensors_, 2025. (__preparing__)
+J3 __Jisu Kim__ and __Byoung-Keon Daniel Park*__, Robust Occupant Behavior Recognition via Multimodal Sequence Modeling: A Comparative Study for In-Vehicle Monitoring Systems, _Sensors_, 2025. (__submitted__)
 
 J2 Youssef Boulaouane, __Jisu Kim__, Jimin Park and __Deokwoo Lee*__, Improving Image Classification Efficiency with Knowledge Distillation and Channel Attention, _Communications in Computer and Information Science_, 2025. (__accepted__)
 
