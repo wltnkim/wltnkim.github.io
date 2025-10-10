@@ -11,9 +11,9 @@ author_profile: true
 # International
 _(* : corresponding author)_  
 
-J3 __Jisu Kim__ and __Byoung-Keon Daniel Park*__, Robust Occupant Behavior Recognition via Multimodal Sequence Modeling: A Comparative Study for In-Vehicle Monitoring Systems, _Sensors_, 2025. (__submitted__)
+J3 __Jisu Kim__ and __Byoung-Keon Daniel Park*__, Robust Occupant Behavior Recognition via Multimodal Sequence Modeling: A Comparative Study for In-Vehicle Monitoring Systems, _Sensors_, 2025. (__accepted__)
 
-J2 Youssef Boulaouane, __Jisu Kim__, Jimin Park and __Deokwoo Lee*__, Improving Image Classification Efficiency with Knowledge Distillation and Channel Attention, _Communications in Computer and Information Science_, _Springer Nature_ 2025. (__accepted__)
+J2 Youssef Boulaouane, __Jisu Kim__, Jimin Park and __Deokwoo Lee*__, Improving Image Classification Efficiency with Knowledge Distillation and Channel Attention, _Communications in Computer and Information Science_, _Springer Nature_, 2025. (__accepted__)
 
 C9 __Jisu Kim__, Alex Mattingly, Eung-joo Lee and __Benjamin Riggan*__, Enhancing Tiny Head Detection and Tracking with YOLOv8 Using Early Fusion Multi-Scale and Domain Adaptive Objective Funcsion, _IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2025_, Tampa, Florida, USA. (__poster__)
 
