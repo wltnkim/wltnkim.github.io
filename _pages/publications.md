@@ -23,17 +23,17 @@ C1 Youssef Boulaouane, __Jisu Kim__, Jimin Park, and Deokwoo Lee\*, Improving Im
 
 C2 __Jisu Kim__, Alex Mattingly, Eung-joo Lee and Benjamin Riggan\*, Using Cross-Domain Detection Loss to Infer Multi-Scale Information for Improved Tiny Head Tracking, _IEEE International Conference on Automatic Face and Gesture Recognition (FG)_, 2025, Tampa, FL, USA.
 
-C3 Geonwoo Kim, __Jisu Kim__, and Deokwoo Lee\*, Computational Complexity of View Synthesis with the Number of Selected Images using Array Cameras, _IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)_, 2020, Seoul, Korea.
+C3 __Jisu Kim__, and Song-yul Choe\*, Development of Algorithms for Vision Inspection Systems for Module Lines using Artificial Intelligence, _International Conference on Innovation Convergence Technology (ICICT)_, 2021. (__abstract__)
 
-C4 __Jisu Kim__, and Deokwoo Lee\*, Action Recognition using Pose Estimation with an Artificial 3D Coordinates and CNN, _Electronic Imaging (EI)_, Vol. 32, pp. 1–7, 2020, Burlingame, CA, USA.
+C4 Geonwoo Kim, __Jisu Kim__, and Deokwoo Lee\*, Computational Complexity of View Synthesis with the Number of Selected Images using Array Cameras, _IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)_, 2020, Seoul, Korea.
 
-C5 __Jisu Kim__, Cheolhyeong Park, Juo Kim, and Deokwoo Lee\*, Occlusion Handled Block-Based Stereo Matching with Image Segmentation, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, pp. 1–9, 2019, Sydney, Australia. (SIPM 2019)
+C5 __Jisu Kim__, and Deokwoo Lee\*, Action Recognition using Pose Estimation with an Artificial 3D Coordinates and CNN, _Electronic Imaging (EI)_, Vol. 32, pp. 1–7, 2020, Burlingame, CA, USA.
 
-C6 Cheolhyeong Park, __Jisu Kim__, and Deokwoo Lee\*, Geometric Deep Learned Feature Classification Based Camera Calibration, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, 2019, Sydney, Australia. (SIPM 2019)
+C6 __Jisu Kim__, Cheolhyeong Park, Juo Kim, and Deokwoo Lee\*, Occlusion Handled Block-Based Stereo Matching with Image Segmentation, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, pp. 1–9, 2019, Sydney, Australia. (SIPM 2019)
 
-C7 Suyeol Kim, Chaehwan Hwang, __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Similarity Based Classification and Detection of Respiratory Status in Frequency Domain, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, 2019, Sydney, Australia. (SIPM 2019)
+C7 Cheolhyeong Park, __Jisu Kim__, and Deokwoo Lee\*, Geometric Deep Learned Feature Classification Based Camera Calibration, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, 2019, Sydney, Australia. (SIPM 2019)
 
-C8 __Jisu Kim__, and Song-yul Choe\*, Development of Algorithms for Vision Inspection Systems for Module Lines using Artificial Intelligence, _International Conference on Innovation Convergence Technology (ICICT)_, 2021. (__abstract__)
+C8 Suyeol Kim, Chaehwan Hwang, __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Similarity Based Classification and Detection of Respiratory Status in Frequency Domain, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, 2019, Sydney, Australia. (SIPM 2019)
 
 C9 __Jisu Kim__, and Deokwoo Lee\*, Improvement of a Speed for View Synthesis with Robust Feature Detection, _International Conference on Algorithms, Machine Learning and Signal Processing (AMLSP)_, 2019. (__abstract__)
 
