@@ -19,7 +19,7 @@ J2 __Jisu Kim__, and Deokwoo Lee\*, Activity Recognition with Combination of Dee
 
 # International Conferences
 
-C1 Youssef Boulaouane, __Jisu Kim__, Jimin Park, and Deokwoo Lee\*, Improving Image Classification Efficiency with Knowledge Distillation and Channel Attention, _International Conference on Multimedia Information Technology and Applications_, 2025, Singapore.
+C1 Youssef Boulaouane, __Jisu Kim__, Jimin Park, and Deokwoo Lee\*, Improving Image Classification Efficiency with Knowledge Distillation and Channel Attention, _International Conference on Multimedia Information Technology and Applications (MITA)_, Springer Nature (CCIS, Vol. 2675), pp. 28–39, 2025, Singapore.
 
 C2 __Jisu Kim__, Alex Mattingly, Eung-joo Lee and Benjamin Riggan\*, Using Cross-Domain Detection Loss to Infer Multi-Scale Information for Improved Tiny Head Tracking, _IEEE International Conference on Automatic Face and Gesture Recognition (FG)_, 2025, Tampa, FL, USA.
 
