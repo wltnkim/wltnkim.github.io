@@ -27,6 +27,7 @@ author_profile: true
 
 |             |    |
 | --------         | ------ |
+| Jan 2026 - May 2026 | Grader, ECEN 211 Elements of Electrical Engineering I, University of Nebraska-Lincoln |
 | Jan 2023 - Jan 2023 | Special Lecture, Engineer Information Security, Keimyung University                       |
 | Jul 2022 - Jul 2022 | Special Lecture, Engineer Information Processing, Keimyung University                |
 | Sep 2019 - Feb 2020 | Teaching Assistant, Data Structure(2), Keimyung University                         |
