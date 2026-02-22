@@ -33,7 +33,9 @@ C6 Cheolhyeong Park, __Jisu Kim__, and Deokwoo Lee\*, Geometric Deep Learned Fea
 
 C7 Suyeol Kim, Chaehwan Hwang, __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Similarity Based Classification and Detection of Respiratory Status in Frequency Domain, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, 2019, Sydney, Australia. (SIPM 2019)
 
-C8 __Jisu Kim__, and Deokwoo Lee\*, Improvement of a Speed for View Synthesis with Robust Feature Detection, _International Conference on Algorithms, Machine Learning and Signal Processing_, 2019.
+C8 __Jisu Kim__, and Song-yul Choe\*, Development of Algorithms for Vision Inspection Systems for Module Lines using Artificial Intelligence, _International Conference on Innovation Convergence Technology (ICICT)_, 2021. (__abstract__)
+
+C9 __Jisu Kim__, and Deokwoo Lee\*, Improvement of a Speed for View Synthesis with Robust Feature Detection, _International Conference on Algorithms, Machine Learning and Signal Processing (AMLSP)_, 2019. (__abstract__)
 
 <br>
 
@@ -61,20 +63,22 @@ C1 Jieun Kim, __Jisu Kim__, and Deokwoo Lee\*, Facial Expression Recognition usi
 
 C2 __Jisu Kim__, Jieun Kim, and Deokwoo Lee\*, Efficient Sampling based Camera Calibration using LSTM, _Autumn Annual Conference of IEIE_, 2021, Incheon.
 
-C3 Inseung Jeong, Jaehoon Choi, __Jisu Kim__, and Deokwoo Lee\*, Fusion and Registration between Depthmap and RGB image using Lidar sensor and a camera, _Proceedings of Symposium of the KICS_, 2020.
+C3 __Jisu Kim__, and Song-yul Choe\*, Development of Algorithms for Vision Inspection Systems for Module Lines using Artificial Intelligence, _Autumn Annual Conference of The Korean Society of Automotive Engineers (KSAE), Daegu-Gyeongbuk Branch_, 2020. (__abstract__)
 
-C4 Geonwoo Kim, Jaehoon Choi, __Jisu Kim__, and Deokwoo Lee\*, Mesh Generation and Texture Mapping Using Binocular Images from Multiple-View Cameras, _Proceedings of Symposium of the KICS_, 2020.
+C4 Inseung Jeong, Jaehoon Choi, __Jisu Kim__, and Deokwoo Lee\*, Fusion and Registration between Depthmap and RGB image using Lidar sensor and a camera, _Proceedings of Symposium of the KICS_, 2020.
 
-C5 __Jisu Kim__, Oheun Kwon, Byungkyo Oh, Hyungwoo Kwak, Sanghyup Lee, Juyoung Jang, Seungjun Yang, Suyeol Kim, and Deokwoo Lee\*, LSTM based intelligent forecasting power load and SMP, _Autumn Annual Conference of KIEE_, 2019, Ansan.
+C5 Geonwoo Kim, Jaehoon Choi, __Jisu Kim__, and Deokwoo Lee\*, Mesh Generation and Texture Mapping Using Binocular Images from Multiple-View Cameras, _Proceedings of Symposium of the KICS_, 2020.
 
-C6 Byungkyo Oh, Yoonjae Choi, Byoungju Choi, __Jisu Kim__, Oheun Kwon, Deokwoo Lee, Hyungwoo Kwak, Juyoung Jang, and Sanghyup Lee, A Study on Improving Performance of AI-based System Marginal Price Forecasting Methods, _Fall Conference of KIEE_, 2019.
+C6 __Jisu Kim__, Oheun Kwon, Byungkyo Oh, Hyungwoo Kwak, Sanghyup Lee, Juyoung Jang, Seungjun Yang, Suyeol Kim, and Deokwoo Lee\*, LSTM based intelligent forecasting power load and SMP, _Autumn Annual Conference of KIEE_, 2019, Ansan.
 
-C7 __Jisu Kim__, Jaehoon Choi, and Deokwoo Lee\*, Homography based Image Synthesis using Multiple Camera, _Conference on Information and Control Systems (CICS)_, 2019.
+C7 Byungkyo Oh, Yoonjae Choi, Byoungju Choi, __Jisu Kim__, Oheun Kwon, Deokwoo Lee, Hyungwoo Kwak, Juyoung Jang, and Sanghyup Lee, A Study on Improving Performance of AI-based System Marginal Price Forecasting Methods, _Fall Conference of KIEE_, 2019.
 
-C8 Cheolhyeong Park, __Jisu Kim__, Juo Kim, and Deokwoo Lee\*, Application to Camera Calibration using Learning Based Corner and Edge Detection, _Autumn Annual Conference of IEIE_, 2018.
+C8 __Jisu Kim__, Jaehoon Choi, and Deokwoo Lee\*, Homography based Image Synthesis using Multiple Camera, _Conference on Information and Control Systems (CICS)_, 2019.
 
-C9 Juo Kim, __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Polygon-shaped Filters for Analysis of Images in Frequency Domain, _Autumn Annual Conference of IEIE_, 2018.
+C9 Cheolhyeong Park, __Jisu Kim__, Juo Kim, and Deokwoo Lee\*, Application to Camera Calibration using Learning Based Corner and Edge Detection, _Autumn Annual Conference of IEIE_, 2018.
 
-C10 Taewoo Kwon, __Jisu Kim__, Junghun Kim, Minjae Jin, Jiyoung Heo, and Donghyun Hong, Development of Smartband for Psychological Analysis and Diagnosis of a Companion Dog based on the Internet of Things, _Korea Computer Congress_, 2018.
+C10 Juo Kim, __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Polygon-shaped Filters for Analysis of Images in Frequency Domain, _Autumn Annual Conference of IEIE_, 2018.
 
-C11 Taewoo Kwon, __Jisu Kim__, Junghun Kim, Minjae Jin, Jiyoung Heo, and Donghyun Hong, Psychological Analysis and Diagnosis of a Companion Dog based on the Internet of Things, _Korea Software Congress_, 2017.
+C11 Taewoo Kwon, __Jisu Kim__, Junghun Kim, Minjae Jin, Jiyoung Heo, and Donghyun Hong, Development of Smartband for Psychological Analysis and Diagnosis of a Companion Dog based on the Internet of Things, _Korea Computer Congress_, 2018.
+
+C12 Taewoo Kwon, __Jisu Kim__, Junghun Kim, Minjae Jin, Jiyoung Heo, and Donghyun Hong, Psychological Analysis and Diagnosis of a Companion Dog based on the Internet of Things, _Korea Software Congress_, 2017.
