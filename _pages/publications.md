@@ -11,10 +11,6 @@ author_profile: true
 # International Journals
 _(\* : corresponding author)_
 
-J4 __Jisu Kim__, and Byoung-keon Daniel Park\*, How Many Labels Do You Need? A Cross-Dataset Study on Label-Efficient Domain Adaptation for Driver Behavior Recognition, _Image and Vision Computing (IVC)_. (__preparation__)
-
-J3 __Jisu Kim__, and Benjamin Riggan\*, The Feature Poverty Paradox of Domain Adaptation for Tiny Object Detection, _Pattern Recognition_. (__preparation__)
-
 J2 __Jisu Kim__, and Byoung-keon Daniel Park\*, Robust Occupant Behavior Recognition via Multimodal Sequence Modeling: A Comparative Study for In-Vehicle Monitoring Systems, _Sensors_, Vol. 25, No. 20, 6323, 2025. (__SCIE__)
 
 J1 __Jisu Kim__, and Deokwoo Lee\*, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Sciences_, Vol. 11, No. 9, 2021. (__SCIE__)
@@ -22,8 +18,6 @@ J1 __Jisu Kim__, and Deokwoo Lee\*, Activity Recognition with Combination of Dee
 <br>
 
 # International Conferences
-
-C10 __Jisu Kim__, and Benjamin Riggan\*, Quality-Aware Multimodal Fusion Reveals Implicit Identity in Valence-Arousal Features, _IEEE International Joint Conference on Biometrics (IJCB)_, 2026. (__preparation__)
 
 C9 Youssef Boulaouane, __Jisu Kim__, Jimin Park, and Deokwoo Lee\*, Improving Image Classification Efficiency with Knowledge Distillation and Channel Attention, _International Conference on Multimedia Information Technology and Applications (MITA)_, Springer Nature (CCIS, Vol. 2675), pp. 28–39, 2025, Singapore.
 
