@@ -43,15 +43,13 @@ C1 __Jisu Kim__, and Deokwoo Lee\*, Improvement of a Speed for View Synthesis wi
 
 ***
 
-J5 Young-Su Jeong, __Jisu Kim__, and Deokwoo Lee\*, A Comparative Study of Stereo Matching Algorithms: Focusing on BM, SGBM, ELAS, _KIPS Transactions on Software and Data Engineering_, Vol. 11, No. 11, pp. 667–673, 2024. (__KCI__)
+J4 Yoo-Sun Jung, __Jisu Kim__, and Deokwoo Lee\*, A Comparative Study of Stereo Matching Algorithms: Focusing on BM, SGBM, ELAS, _Journal of the Korea Academia-Industrial Cooperation Society_, Vol. 25, No. 11, pp. 667–673, 2024. (__KCI__) [[pdf](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11992061)]
 
-J4 __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Block-Based Stereo Matching Using Image Segmentation, _The Journal of Korean Institute of Communications and Information Sciences_, Vol. 44, No. 7, pp. 1402–1410, 2019. (__KCI__) [[pdf](https://doi.org/10.7840/kics.2019.44.7.1402)]
+J3 __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Block-Based Stereo Matching Using Image Segmentation, _The Journal of Korean Institute of Communications and Information Sciences_, Vol. 44, No. 7, pp. 1402–1410, 2019. (__KCI__) [[pdf](https://doi.org/10.7840/kics.2019.44.7.1402)]
 
-J3 Juo Kim, __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Polygon-shaped Filters in Frequency Domain for Practical Filtering of Images, _Journal of the Korea Academia-Industrial Cooperation Society_, Vol. 20, No. 3, pp. 1–7, 2019. (__KCI__)
+J2 Juo Kim, __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Polygon-shaped Filters in Frequency Domain for Practical Filtering of Images, _Journal of the Korea Academia-Industrial Cooperation Society_, Vol. 20, No. 3, pp. 1–7, 2019. (__KCI__) [[pdf](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07997660)]
 
-J2 Deokwoo Lee\*, __Jisu Kim__, and Cheolhyeong Park, Concepts of System Function and Modulation-Demodulation based Reconstruction of a 3D Object Coordinates using Active Method, _Journal of the Korea Academia-Industrial Cooperation Society_, Vol. 20, No. 5, pp. 530–537, 2019. (__KCI__)
-
-J1 __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Occlusion Handled Block-Based Stereo Matching with Image Segmentation, _Journal of The Korean Society of Computer and Information_, 2019. (__KCI__)
+J1 Deokwoo Lee\*, __Jisu Kim__, and Cheolhyeong Park, Concepts of System Function and Modulation-Demodulation based Reconstruction of a 3D Object Coordinates using Active Method, _Journal of the Korea Academia-Industrial Cooperation Society_, Vol. 20, No. 5, pp. 530–537, 2019. (__KCI__) [[pdf](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08760967)]
 
 <br>
 
