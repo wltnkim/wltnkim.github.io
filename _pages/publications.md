@@ -49,7 +49,7 @@ J3 __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Block-Based Stereo Matchin
 
 J2 Juo Kim, __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Polygon-shaped Filters in Frequency Domain for Practical Filtering of Images, _Journal of the Korea Academia-Industrial Cooperation Society_, Vol. 20, No. 3, pp. 1–7, 2019. (__KCI__) [[pdf](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07997660)]
 
-J1 Deokwoo Lee\*, __Jisu Kim__, and Cheolhyeong Park, Concepts of System Function and Modulation-Demodulation based Reconstruction of a 3D Object Coordinates using Active Method, _Journal of the Korea Academia-Industrial Cooperation Society_, Vol. 20, No. 5, pp. 530–537, 2019. (__KCI__) [[pdf](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08760967)]
+J1 Deokwoo Lee\*, __Jisu Kim__, and Cheolhyeong Park, Concepts of System Function and Modulation-Demodulation based Reconstruction of a 3D Object Coordinates using Active Method, _Journal of the Korea Academia-Industrial Cooperation Society_, Vol. 20, No. 5, pp. 530–537, 2019. (__KCI__) [[pdf](https://doi.org/10.5762/KAIS.2019.20.5.530)]
 
 <br>
 
