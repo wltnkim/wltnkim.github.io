@@ -11,29 +11,29 @@ author_profile: true
 # International Journals
 _(\* : corresponding author)_
 
-J2 __Jisu Kim__, and Byoung-keon Daniel Park\*, Robust Occupant Behavior Recognition via Multimodal Sequence Modeling: A Comparative Study for In-Vehicle Monitoring Systems, _Sensors_, Vol. 25, No. 20, 6323, 2025. (__SCIE__)
+J2 __Jisu Kim__, and Byoung-keon Daniel Park\*, Robust Occupant Behavior Recognition via Multimodal Sequence Modeling: A Comparative Study for In-Vehicle Monitoring Systems, _Sensors_, Vol. 25, No. 20, 6323, 2025. (__SCIE__) [[pdf](https://doi.org/10.3390/s25206323)] [[github](https://github.com/wltnkim/UMTRI_Occupant_Behavior)]
 
-J1 __Jisu Kim__, and Deokwoo Lee\*, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Sciences_, Vol. 11, No. 9, 2021. (__SCIE__)
+J1 __Jisu Kim__, and Deokwoo Lee\*, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Sciences_, Vol. 11, No. 9, 2021. (__SCIE__) [[pdf](https://doi.org/10.3390/app11094153)]
 
 <br>
 
 # International Conferences
 
-C9 Youssef Boulaouane, __Jisu Kim__, Jimin Park, and Deokwoo Lee\*, Improving Image Classification Efficiency with Knowledge Distillation and Channel Attention, _International Conference on Multimedia Information Technology and Applications (MITA)_, Springer Nature (CCIS, Vol. 2675), pp. 28–39, 2025, Singapore.
+C9 Youssef Boulaouane, __Jisu Kim__, Jimin Park, and Deokwoo Lee\*, Improving Image Classification Efficiency with Knowledge Distillation and Channel Attention, _International Conference on Multimedia Information Technology and Applications (MITA)_, Springer Nature (CCIS, Vol. 2675), pp. 28–39, 2025, Singapore. [[pdf](https://doi.org/10.1007/978-981-95-3141-7_3)]
 
-C8 __Jisu Kim__, Alex Mattingly, Eung-joo Lee and Benjamin Riggan\*, Using Cross-Domain Detection Loss to Infer Multi-Scale Information for Improved Tiny Head Tracking, _IEEE International Conference on Automatic Face and Gesture Recognition (FG)_, 2025, Tampa, FL, USA.
+C8 __Jisu Kim__, Alex Mattingly, Eung-joo Lee and Benjamin Riggan\*, Using Cross-Domain Detection Loss to Infer Multi-Scale Information for Improved Tiny Head Tracking, _IEEE International Conference on Automatic Face and Gesture Recognition (FG)_, 2025, Tampa, FL, USA. [[pdf](https://doi.org/10.1109/fg61629.2025.11099184)] [[github](https://github.com/wltnkim/CDDL-TinyHeadTracking)]
 
 C7 __Jisu Kim__, and Song-yul Choe\*, Development of Algorithms for Vision Inspection Systems for Module Lines using Artificial Intelligence, _International Conference on Innovation Convergence Technology (ICICT)_, 2021. (__abstract__)
 
-C6 Geonwoo Kim, __Jisu Kim__, and Deokwoo Lee\*, Computational Complexity of View Synthesis with the Number of Selected Images using Array Cameras, _IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)_, 2020, Seoul, Korea.
+C6 Geonwoo Kim, __Jisu Kim__, and Deokwoo Lee\*, Computational Complexity of View Synthesis with the Number of Selected Images using Array Cameras, _IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)_, 2020, Seoul, Korea. [[pdf](https://doi.org/10.1109/icce-asia49877.2020.9277087)]
 
-C5 __Jisu Kim__, and Deokwoo Lee\*, Action Recognition using Pose Estimation with an Artificial 3D Coordinates and CNN, _Electronic Imaging (EI)_, Vol. 32, pp. 1–7, 2020, Burlingame, CA, USA.
+C5 __Jisu Kim__, and Deokwoo Lee\*, Action Recognition using Pose Estimation with an Artificial 3D Coordinates and CNN, _Electronic Imaging (EI)_, Vol. 32, pp. 1–7, 2020, Burlingame, CA, USA. [[pdf](https://doi.org/10.2352/issn.2470-1173.2020.17.3dmp-004)]
 
-C4 __Jisu Kim__, Cheolhyeong Park, Juo Kim, and Deokwoo Lee\*, Occlusion Handled Block-Based Stereo Matching with Image Segmentation, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, pp. 1–9, 2019, Sydney, Australia. (SIPM 2019)
+C4 __Jisu Kim__, Cheolhyeong Park, Juo Kim, and Deokwoo Lee\*, Occlusion Handled Block-Based Stereo Matching with Image Segmentation, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, pp. 1–9, 2019, Sydney, Australia. (SIPM 2019) [[pdf](https://doi.org/10.5121/csit.2019.90303)]
 
-C3 Cheolhyeong Park, __Jisu Kim__, and Deokwoo Lee\*, Geometric Deep Learned Feature Classification Based Camera Calibration, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, 2019, Sydney, Australia. (SIPM 2019)
+C3 Cheolhyeong Park, __Jisu Kim__, and Deokwoo Lee\*, Geometric Deep Learned Feature Classification Based Camera Calibration, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, 2019, Sydney, Australia. (SIPM 2019) [[pdf](https://doi.org/10.5121/csit.2019.90305)]
 
-C2 Suyeol Kim, Chaehwan Hwang, __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Similarity Based Classification and Detection of Respiratory Status in Frequency Domain, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, 2019, Sydney, Australia. (SIPM 2019)
+C2 Suyeol Kim, Chaehwan Hwang, __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Similarity Based Classification and Detection of Respiratory Status in Frequency Domain, _Computer Science & Information Technology (CS & IT)_, Vol. 9, No. 3, 2019, Sydney, Australia. (SIPM 2019) [[pdf](https://doi.org/10.5121/csit.2019.90301)]
 
 C1 __Jisu Kim__, and Deokwoo Lee\*, Improvement of a Speed for View Synthesis with Robust Feature Detection, _International Conference on Algorithms, Machine Learning and Signal Processing (AMLSP)_, 2019. (__abstract__)
 
@@ -45,7 +45,7 @@ C1 __Jisu Kim__, and Deokwoo Lee\*, Improvement of a Speed for View Synthesis wi
 
 J5 Young-Su Jeong, __Jisu Kim__, and Deokwoo Lee\*, A Comparative Study of Stereo Matching Algorithms: Focusing on BM, SGBM, ELAS, _KIPS Transactions on Software and Data Engineering_, Vol. 11, No. 11, pp. 667–673, 2024. (__KCI__)
 
-J4 __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Block-Based Stereo Matching Using Image Segmentation, _The Journal of Korean Institute of Communications and Information Sciences_, Vol. 44, No. 7, pp. 1402–1410, 2019. (__KCI__)
+J4 __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Block-Based Stereo Matching Using Image Segmentation, _The Journal of Korean Institute of Communications and Information Sciences_, Vol. 44, No. 7, pp. 1402–1410, 2019. (__KCI__) [[pdf](https://doi.org/10.7840/kics.2019.44.7.1402)]
 
 J3 Juo Kim, __Jisu Kim__, Cheolhyeong Park, and Deokwoo Lee\*, Polygon-shaped Filters in Frequency Domain for Practical Filtering of Images, _Journal of the Korea Academia-Industrial Cooperation Society_, Vol. 20, No. 3, pp. 1–7, 2019. (__KCI__)
 
