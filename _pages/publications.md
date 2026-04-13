@@ -11,10 +11,9 @@ author_profile: true
 # International Journals
 _(\* : corresponding author)_
 
-<table><tr>
-<td style="width:300px; vertical-align:top;"><img src="/images/pub_sensors2025.png" alt="Sensors 2025" style="width:100%;"></td>
-<td style="vertical-align:top;">J2 <b>Jisu Kim</b>, and Byoung-keon Daniel Park*, Robust Occupant Behavior Recognition via Multimodal Sequence Modeling: A Comparative Study for In-Vehicle Monitoring Systems, <i>Sensors</i>, Vol. 25, No. 20, 6323, 2025. (<b>SCIE</b>) [<a href="https://doi.org/10.3390/s25206323">pdf</a>] [<a href="https://github.com/wltnkim/UMTRI_Occupant_Behavior">github</a>]</td>
-</tr></table>
+<img src="/images/pub_sensors2025.png" alt="Sensors 2025" style="max-width:600px; width:100%;">
+
+J2 __Jisu Kim__, and Byoung-keon Daniel Park\*, Robust Occupant Behavior Recognition via Multimodal Sequence Modeling: A Comparative Study for In-Vehicle Monitoring Systems, _Sensors_, Vol. 25, No. 20, 6323, 2025. (__SCIE__) [[pdf](https://doi.org/10.3390/s25206323)] [[github](https://github.com/wltnkim/UMTRI_Occupant_Behavior)]
 
 J1 __Jisu Kim__, and Deokwoo Lee\*, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Sciences_, Vol. 11, No. 9, 2021. (__SCIE__) [[pdf](https://doi.org/10.3390/app11094153)]
 
@@ -24,10 +23,9 @@ J1 __Jisu Kim__, and Deokwoo Lee\*, Activity Recognition with Combination of Dee
 
 C9 Youssef Boulaouane, __Jisu Kim__, Jimin Park, and Deokwoo Lee\*, Improving Image Classification Efficiency with Knowledge Distillation and Channel Attention, _International Conference on Multimedia Information Technology and Applications (MITA)_, Springer Nature (CCIS, Vol. 2675), pp. 28–39, 2025, Singapore. [[pdf](https://doi.org/10.1007/978-981-95-3141-7_3)]
 
-<table><tr>
-<td style="width:300px; vertical-align:top;"><img src="/images/pub_fg2025.png" alt="FG 2025" style="width:100%;"></td>
-<td style="vertical-align:top;">C8 <b>Jisu Kim</b>, Alex Mattingly, Eung-joo Lee and Benjamin Riggan*, Using Cross-Domain Detection Loss to Infer Multi-Scale Information for Improved Tiny Head Tracking, <i>IEEE International Conference on Automatic Face and Gesture Recognition (FG)</i>, 2025, Tampa, FL, USA. [<a href="https://doi.org/10.1109/fg61629.2025.11099184">pdf</a>] [<a href="https://github.com/wltnkim/CDDL-TinyHeadTracking">github</a>]</td>
-</tr></table>
+<img src="/images/pub_fg2025.png" alt="FG 2025" style="max-width:600px; width:100%;">
+
+C8 __Jisu Kim__, Alex Mattingly, Eung-joo Lee and Benjamin Riggan\*, Using Cross-Domain Detection Loss to Infer Multi-Scale Information for Improved Tiny Head Tracking, _IEEE International Conference on Automatic Face and Gesture Recognition (FG)_, 2025, Tampa, FL, USA. [[pdf](https://doi.org/10.1109/fg61629.2025.11099184)] [[github](https://github.com/wltnkim/CDDL-TinyHeadTracking)]
 
 C7 __Jisu Kim__, and Song-yul Choe\*, Development of Algorithms for Vision Inspection Systems for Module Lines using Artificial Intelligence, _International Conference on Innovation Convergence Technology (ICICT)_, 2021. (__abstract__)
 
