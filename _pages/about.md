@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in Electrical Engineering at [University of Nebraska-Lincoln](https://www.unl.edu/), Lincoln, NE, USA. I received my M.S. and B.S. degrees in Computer Engineering from [Keimyung University](https://www.kmu.ac.kr/uni/main/main.jsp), Daegu, South Korea. My research focuses on developing robust computer vision and machine learning models for understanding human behavior in complex, real-world environments. I specialize in leveraging multimodal data and sequence modeling to address challenges in automotive and human-computer interaction domains.
 
-For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/JisuKim_CV_20262022.pdf).
+For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/JisuKim_CV_20260413.pdf).
 
 ## RESEARCH INTERESTS
 * Computer Vision for Human Behavior Understanding
@@ -32,8 +32,8 @@ For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/Ji
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| **Jun 2025 - Aug 2025**    | Research Assistant, [Biosciences Group](https://www.umtri.umich.edu/research/groups/biosciences/), [UMTRI](https://www.umtri.umich.edu), Ann Arbor, MI, USA    |  Advisor : [Byoung-keon Daniel Park](https://www.umtri.umich.edu/people/park-byoung-keon-daniel/)    |
 | **Aug 2023 - present**    | Research Assistant, [IMAGES Lab](https://unl-ece.wixsite.com/imageslab), [University of Nebraska-Lincoln](https://www.unl.edu/), Lincoln, NE, USA    |  Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)    |
+| **Jun 2025 - Aug 2025**    | Research Assistant, [Biosciences Group](https://www.umtri.umich.edu/research/groups/biosciences/), [UMTRI](https://www.umtri.umich.edu), Ann Arbor, MI, USA    |  Advisor : [Byoung-keon Daniel Park](https://www.umtri.umich.edu/people/park-byoung-keon-daniel/)    |
 | **Apr 2021 - May 2023**    | Researcher, SW Research Dept., [GIVET](http://www.givet.re.kr/), Republic of Korea   |                           |
 | **Mar 2020 - Aug 2020**    | Visiting Researcher, Alternative Powertrain Research Lab (APRL), Auburn University, Auburn, AL, USA   | Supervisor : [Songyul Choe](https://eng.auburn.edu/directory/choeson) |
 | **Jun 2018 - Feb 2021**    | Research Assistant, [ISIP](https://sites.google.com/view/dwoolee/introduction), Keimyung University, Republic of Korea   | Director : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0) |
