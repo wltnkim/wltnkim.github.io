@@ -11,7 +11,7 @@ author_profile: true
 # International Journals
 _(\* : corresponding author)_
 
-J2 __Jisu Kim__, and Byoung-keon Daniel Park\*, Robust Occupant Behavior Recognition via Multimodal Sequence Modeling: A Comparative Study for In-Vehicle Monitoring Systems, _Sensors_, Vol. 25, No. 20, 6323, 2025. (__SCIE__) [[pdf](https://doi.org/10.3390/s25206323)] [[github](https://github.com/wltnkim/UMTRI_Occupant_Behavior)]
+J2 __Jisu Kim__\*, and Byoung-keon Daniel Park, Robust Occupant Behavior Recognition via Multimodal Sequence Modeling: A Comparative Study for In-Vehicle Monitoring Systems, _Sensors_, Vol. 25, No. 20, 6323, 2025. (__SCIE__) [[pdf](https://doi.org/10.3390/s25206323)] [[github](https://github.com/wltnkim/UMTRI_Occupant_Behavior)]
 
 J1 __Jisu Kim__, and Deokwoo Lee\*, Activity Recognition with Combination of Deeply Learned Visual Attention and Pose Estimation, _Applied Sciences_, Vol. 11, No. 9, 2021. (__SCIE__) [[pdf](https://doi.org/10.3390/app11094153)]
 
