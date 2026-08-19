@@ -9,8 +9,10 @@ author_profile: true
 
 |                       |                                                                                                                                                                                                                 |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Aug '23 - present** | DEVCOM Army Research Laboratory (ARL), contract W911NF-21-2-0076 – Cross-domain adaptation for tiny object detection and tracking  <br>**University of Nebraska-Lincoln**                                       |
-| **Aug '23 - present** | Baltimore Police Department (BPD) – Body-worn camera video analysis for law enforcement de-escalation  <br>**University of Nebraska-Lincoln**                                                                    |
+| **Aug '26 - present** | DEVCOM Army Research Laboratory (ARL), contract W911NF-21-2-0076 – Cross-domain adaptation for tiny object detection and tracking  <br>**University of Tennessee, Knoxville**                                    |
+| **Aug '26 - present** | Baltimore Police Department (BPD) – Body-worn camera video analysis for law enforcement de-escalation  <br>**University of Tennessee, Knoxville**                                                                |
+| **Aug '23 - Jul '26** | DEVCOM Army Research Laboratory (ARL), contract W911NF-21-2-0076 – Cross-domain adaptation for tiny object detection and tracking  <br>**University of Nebraska-Lincoln**                                       |
+| **Aug '23 - Jul '26** | Baltimore Police Department (BPD) – Body-worn camera video analysis for law enforcement de-escalation  <br>**University of Nebraska-Lincoln**                                                                    |
 | **Jun '25 - Aug '25** | University of Michigan Transportation Research Institute (UMTRI) – Multimodal in-vehicle occupant behavior recognition system development  <br>**Ann Arbor, MI**                                                |
 
 ## Past

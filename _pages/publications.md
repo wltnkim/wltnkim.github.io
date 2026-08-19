@@ -19,6 +19,8 @@ J1 __Jisu Kim__, and Deokwoo Lee\*, Activity Recognition with Combination of Dee
 
 # International Conferences
 
+C10 __Jisu Kim__, and Benjamin S. Riggan\*, Quality-Aware Multimodal Fusion Reveals Implicit Identity in Valence-Arousal Features, _IEEE International Joint Conference on Biometrics (IJCB)_, 2026, Rome, Italy. (__accept__)
+
 C9 Youssef Boulaouane, __Jisu Kim__, Jimin Park, and Deokwoo Lee\*, Improving Image Classification Efficiency with Knowledge Distillation and Channel Attention, _International Conference on Multimedia Information Technology and Applications (MITA)_, Springer Nature (CCIS, Vol. 2675), pp. 28–39, 2025, Singapore. [[pdf](https://doi.org/10.1007/978-981-95-3141-7_3)]
 
 C8 __Jisu Kim__, Alex Mattingly, Eung-joo Lee and Benjamin Riggan\*, Using Cross-Domain Detection Loss to Infer Multi-Scale Information for Improved Tiny Head Tracking, _IEEE International Conference on Automatic Face and Gesture Recognition (FG)_, 2025, Tampa, FL, USA. [[pdf](https://doi.org/10.1109/fg61629.2025.11099184)] [[github](https://github.com/wltnkim/CDDL-TinyHeadTracking)]

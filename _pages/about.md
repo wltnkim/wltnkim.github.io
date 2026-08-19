@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Electrical Engineering at [University of Nebraska-Lincoln](https://www.unl.edu/), Lincoln, NE, USA. I received my M.S. and B.S. degrees in Computer Engineering from [Keimyung University](https://www.kmu.ac.kr/uni/main/main.jsp), Daegu, South Korea. My research focuses on developing robust computer vision and machine learning models for understanding human behavior in complex, real-world environments. I specialize in leveraging multimodal data and sequence modeling to address challenges in automotive and human-computer interaction domains.
+I am a Ph.D. student in Electrical Engineering at [University of Tennessee, Knoxville](https://www.utk.edu/), Knoxville, TN, USA. I received my M.S. and B.S. degrees in Computer Engineering from [Keimyung University](https://www.kmu.ac.kr/uni/main/main.jsp), Daegu, South Korea. My research focuses on developing robust computer vision and machine learning models for understanding human behavior in complex, real-world environments. I specialize in leveraging multimodal data and sequence modeling to address challenges in automotive and human-computer interaction domains.
 
-For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/JisuKim_CV_20260413.pdf).
+For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/JisuKim_CV_20260819.pdf).
 
 ## RESEARCH INTERESTS
 * Computer Vision for Human Behavior Understanding
@@ -23,7 +23,8 @@ For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/Ji
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| **Aug 2023 - present**    | Ph.D. in Electrical Engineering, University of Nebraska-Lincoln, Lincoln, NE, USA | Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)  |
+| **Aug 2026 - present**    | Ph.D. in Electrical Engineering, University of Tennessee, Knoxville, Knoxville, TN, USA | Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)  |
+| **Aug 2023 - Jul 2026**    | Ph.D. in Electrical Engineering, University of Nebraska-Lincoln, Lincoln, NE, USA | Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)  |
 | **Mar 2019 - Feb 2021**    | M.S. in Computer Engineering, Keimyung University, Daegu, South Korea | Advisor : [Deokwoo Lee](https://sites.google.com/view/dwoolee/deokwoo-lee?authuser=0)  |
 | **Mar 2013 - Feb 2019**    | B.S. in Computer Engineering (Minor in Japanese Studies), Keimyung University, Daegu, South Korea   |    |
 
@@ -32,7 +33,8 @@ For more, please look up my [Curriculum Vitae](http://wltnkim.github.io/files/Ji
 
 |             |    |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| **Aug 2023 - present**    | Research Assistant, [IMAGES Lab](https://unl-ece.wixsite.com/imageslab), [University of Nebraska-Lincoln](https://www.unl.edu/), Lincoln, NE, USA    |  Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)    |
+| **Aug 2026 - present**    | Research Assistant, IMAGES Lab, [University of Tennessee, Knoxville](https://www.utk.edu/), Knoxville, TN, USA    |  Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)    |
+| **Aug 2023 - Jul 2026**    | Research Assistant, [IMAGES Lab](https://unl-ece.wixsite.com/imageslab), [University of Nebraska-Lincoln](https://www.unl.edu/), Lincoln, NE, USA    |  Advisor : [Benjamin Riggan](https://sites.google.com/site/benjaminriggan/)    |
 | **Jun 2025 - Aug 2025**    | Research Assistant, [Biosciences Group](https://www.umtri.umich.edu/research/groups/biosciences/), [UMTRI](https://www.umtri.umich.edu), Ann Arbor, MI, USA    |  Advisor : [Byoung-keon Daniel Park](https://www.umtri.umich.edu/people/park-byoung-keon-daniel/)    |
 | **Apr 2021 - May 2023**    | Researcher, SW Research Dept., [GIVET](http://www.givet.re.kr/), Republic of Korea   |                           |
 | **Mar 2020 - Aug 2020**    | Visiting Researcher, Alternative Powertrain Research Lab (APRL), Auburn University, Auburn, AL, USA   | Supervisor : [Songyul Choe](https://eng.auburn.edu/directory/choeson) |
@@ -45,5 +47,5 @@ __Library__ : OpenCV, Keras, NumPy
 __Adobe__ : Premiere Pro, Photoshop
 
 ## Contacts
-Email : jkim73@huskers.unl.edu
+Email : jkim205@vols.utk.edu
 Google Scholar : [Jisu Kim](https://scholar.google.com/citations?user=WRE6510AAAAJ)
